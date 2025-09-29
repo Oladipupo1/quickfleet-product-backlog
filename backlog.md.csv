@@ -1,0 +1,673 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers,Watchers,Watchers Id,Watchers Id,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Development),Custom field (Issue color),Custom field (Rank),Sprint,Custom field (Start date),Custom field (Story point estimate),Team Id,Team Name,Custom field (Vulnerability),Comment,Comment,Parent,Parent key,Parent summary,Status Category,Status Category Changed
+Driver Registration,QUIC-155,10561,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,11/Aug/25 11:22 AM,11/Aug/25 11:24 AM,11/Aug/25 3:27 PM,,,0,"*User Story*
+
+_As a driver, I want to sign up and log in to the App quickly, so I can start receiving delivery requests_",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000zz:,,,,,,,,,,,,To Do,11/Aug/25 11:22 AM
+Test mobile calling feature,QUIC-154,10553,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Olawunmi Sanusi,70121:180c0b9b-81d1-47a5-b4e3-a93e04a2be29,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:14 PM,11/Aug/25 11:05 AM,03/Jul/25 9:50 PM,,14/Jul/25 12:00 AM,0,"As a developer, I want to test the mobile calling feature to ensure it meets the acceptance criteria and functions correctly.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000zn:,QUIC Sprint 1,,1.0,,,,,,10182,QUIC-18,Mobile calling feature,In Progress,11/Aug/25 11:05 AM
+Integrate call feature with user interface,QUIC-153,10551,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:13 PM,11/Aug/25 11:05 AM,,,13/Jul/25 12:00 AM,0,"As a user, I want to have a seamless interface to initiate calls to the driver, so that I can easily verify their location.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000zr:,QUIC Sprint 1,,1.0,,,,,,10182,QUIC-18,Mobile calling feature,In Progress,11/Aug/25 11:05 AM
+Implement call initiation feature,QUIC-152,10549,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:10 PM,11/Aug/25 11:05 AM,,,13/Jul/25 12:00 AM,0,"As a user, I would like to initiate a call to the driver to confirm their location.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000zj:,QUIC Sprint 1,,1.0,,,,,,10182,QUIC-18,Mobile calling feature,In Progress,11/Aug/25 11:05 AM
+User Verification Process for Rider Details,QUIC-151,10547,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:02 PM,11/Aug/25 11:05 AM,,,13/Jul/25 12:00 AM,0,Create a process that allows users to verify rider details by sharing a unique 4-digit code with the rider. This process should encompass all necessary user interactions and confirmations within the app to ensure a seamless experience.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000yt:,QUIC Sprint 1,,,,,,,,10180,QUIC-17,Rider details ,In Progress,11/Aug/25 11:05 AM
+Test Rider Details Feature,QUIC-150,10545,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Olawunmi Sanusi,70121:180c0b9b-81d1-47a5-b4e3-a93e04a2be29,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:00 PM,11/Aug/25 11:05 AM,,,13/Jul/25 12:00 AM,0,Conduct thorough testing of the rider details feature to ensure it meets all acceptance criteria and functions correctly across different devices and scenarios.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000yr:,QUIC Sprint 1,,1.0,,,,,,10180,QUIC-17,Rider details ,In Progress,11/Aug/25 11:05 AM
+Integrate Rider Details with User Interface,QUIC-149,10543,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:59 AM,11/Aug/25 11:05 AM,,,12/Jul/25 12:00 AM,0,"Integrate the rider details API with the user interface, ensuring that the information is displayed correctly and updates in real-time as needed.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000yv:,QUIC Sprint 1,,1.0,,,,,,10180,QUIC-17,Rider details ,In Progress,11/Aug/25 11:05 AM
+Implement Rider Details API,QUIC-148,10541,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:58 AM,11/Aug/25 11:05 AM,,,11/Jul/25 12:00 AM,0,Develop the backend API to fetch and provide rider details to the frontend. Ensure the API is secure and can handle multiple requests efficiently.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000yn:,QUIC Sprint 1,,1.0,,,,,,10180,QUIC-17,Rider details ,In Progress,11/Aug/25 11:05 AM
+Document Pricing Endpoint API,QUIC-147,10539,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:53 AM,11/Aug/25 11:05 AM,,,11/Jul/25 12:00 AM,0,"Create comprehensive documentation for the pricing endpoint API, detailing its usage, parameters, and response formats for future reference and development.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xt:,QUIC Sprint 1,,1.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:05 AM
+Test Pricing Endpoint Functionality,QUIC-146,10537,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Olawunmi Sanusi,70121:180c0b9b-81d1-47a5-b4e3-a93e04a2be29,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:52 AM,11/Aug/25 11:05 AM,,,11/Jul/25 12:00 AM,0,Conduct thorough testing of the pricing endpoint to ensure it accurately returns the delivery price and handles edge cases effectively.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xv:,QUIC Sprint 1,,1.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:05 AM
+Integrate Pricing Endpoint with User Interface,QUIC-145,10535,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:51 AM,11/Aug/25 11:04 AM,,,10/Jul/25 12:00 AM,0,"Integrate the newly created pricing endpoint with the customer app interface, ensuring users can easily access and view the delivery price.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xz:,QUIC Sprint 1,,1.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:04 AM
+Implement Pricing Endpoint Logic,QUIC-144,10533,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:49 AM,11/Aug/25 11:04 AM,,,10/Jul/25 12:00 AM,0,"Develop the backend logic for the pricing endpoint to calculate and return the delivery price based on various factors such as distance, package weight, and delivery type.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xr:,QUIC Sprint 1,,2.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:04 AM
+Design Pricing Endpoint API,QUIC-143,10531,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:48 AM,11/Aug/25 11:04 AM,,,08/Jul/25 12:00 AM,0,"h2. Summary
+
+Design the API for the pricing endpoint. This API will return the delivery price to users. It needs to be secure and scalable.
+
+h2. Context
+
+The pricing endpoint is essential for providing users with accurate delivery pricing. It is important that the API adheres to best practices.
+
+h2. Acceptance criteria
+
+* The API must return the delivery price to users.
+* The API should be secure.
+* The API must be scalable.
+* The API should follow best practices.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xj:,QUIC Sprint 1,,2.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:04 AM
+Test Vehicle Type Interface,QUIC-142,10529,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:44 AM,11/Aug/25 11:04 AM,,,,0,"As a QA engineer, I want to test the vehicle type interface to ensure it displays the correct list of vehicles and allows selection based on package, so that customers have a seamless experience.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000x5:,QUIC Sprint 1,,,,,,,,10176,QUIC-15,Vehicle type endpoint,In Progress,11/Aug/25 11:04 AM
+Implement Vehicle Selection Logic,QUIC-141,10527,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:43 AM,10/Jul/25 8:17 PM,,,10/Jul/25 12:00 AM,0,"h2. Summary
+
+Implement the logic for vehicle selection. This will enable customers to choose a vehicle from a list for their delivery requests.
+
+h2. Context
+
+This feature is aimed at improving the customer experience during the delivery request process. It allows customers to select their preferred vehicle.
+
+h2. Acceptance criteria
+
+* Customers can view a list of available vehicles.
+* Customers can select a vehicle from the list.
+* The selected vehicle is confirmed for the delivery request.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000x3:,QUIC Sprint 1,,1.0,,,,,,10176,QUIC-15,Vehicle type endpoint,In Progress,10/Jul/25 8:17 PM
+Integrate Vehicle Selection with Package Options,QUIC-140,10525,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:42 AM,11/Aug/25 11:04 AM,,,10/Jul/25 12:00 AM,0,"h2. Summary
+
+Integrate the vehicle selection feature with package options. This will allow customers to choose a vehicle that fits their package requirements.
+
+h2. Context
+
+The integration aims to enhance the customer experience by providing a seamless way to select vehicles based on their chosen packages.
+
+h2. Acceptance criteria
+
+* Vehicle selection must be linked to package options.
+* Customers should see only the vehicles that match their selected package.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000x7:,QUIC Sprint 1,,1.0,,,,,,10176,QUIC-15,Vehicle type endpoint,In Progress,11/Aug/25 11:04 AM
+Develop Backend API for Vehicle List,QUIC-139,10523,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:40 AM,11/Aug/25 11:04 AM,11/Aug/25 11:04 AM,,07/Jul/25 12:00 AM,0,"h2. Summary
+
+Develop a backend API to provide a list of available vehicles for the frontend interface.
+
+h2. Context
+
+This API will allow the frontend to display vehicle information to customers.
+
+h2. Acceptance criteria
+
+* Create a backend API.
+* The API should return a list of available vehicles.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000wn:,QUIC Sprint 1,,,,,,,,10176,QUIC-15,Vehicle type endpoint,In Progress,11/Aug/25 11:04 AM
+Test weight category functionality,QUIC-138,10521,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:36 AM,11/Aug/25 11:06 AM,,,09/Jul/25 12:00 AM,0,"As a QA engineer, I want to test the weight category functionality in the rider app, so that I can ensure it works correctly and meets the acceptance criteria.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000wf:,QUIC Sprint 1,,,,,,,,10174,QUIC-14,Package weight category,In Progress,11/Aug/25 11:06 AM
+Integrate weight categories into rider app,QUIC-137,10519,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:35 AM,11/Aug/25 11:06 AM,,,08/Jul/25 12:00 AM,0,"As a developer, I want to integrate the defined weight categories into the rider app, so that users can use them to determine the appropriate vehicle type for package pickup.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w7:,QUIC Sprint 1,,1.0,,,,,,10174,QUIC-14,Package weight category,In Progress,11/Aug/25 11:06 AM
+Test map view functionality,QUIC-136,10517,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:30 AM,11/Aug/25 11:02 AM,11/Aug/25 11:02 AM,,07/Jul/25 12:00 AM,0,"As a tester, I want to test the map view functionality, so that I can ensure it meets the acceptance criteria and works as expected.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000vz:,QUIC Sprint 1,,,,,,,,10172,QUIC-13,Map view functionality ,In Progress,11/Aug/25 11:02 AM
+Develop user interface for map view,QUIC-135,10515,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:29 AM,11/Aug/25 11:04 AM,,,,0,"As a user, I want to see a user-friendly interface for the map view, so that i can easily interact with the map to view locations.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w1:,QUIC Sprint 1,,,,,,,,10172,QUIC-13,Map view functionality ,In Progress,10/Jul/25 8:15 PM
+Implement location markers on the map,QUIC-134,10513,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:28 AM,11/Aug/25 11:04 AM,,,07/Jul/25 12:00 AM,0,"As a user, I want to see markers for delivery and pickup locations on the map, so that I can easily identify them.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w4:,QUIC Sprint 1,,3.0,,,,,,10172,QUIC-13,Map view functionality ,In Progress,10/Jul/25 8:15 PM
+Integrate map API for location rendering,QUIC-133,10511,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:27 AM,11/Aug/25 11:01 AM,,,07/Jul/25 12:00 AM,0,"As a user, I want to see a map Summary
+
+Integrate a map API to render delivery and pickup locations on the map for users.
+
+h2. Context
+
+The integration of a map API will enhance user experience by providing visual representation of delivery and pickup locations.
+
+h2. Acceptance criteria
+
+* A map API must be integrated.
+* Delivery locations should be clearly marked on the map.
+* Pickup locations should also be clearly marked on the map.
+
+h2. Other information
+
+N/A, so that I can render delivery and pickup locations on the map.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000vb:,QUIC Sprint 1,,2.0,,,,,,10172,QUIC-13,Map view functionality ,In Progress,11/Aug/25 11:01 AM
+Implement map view for pickup locations,QUIC-132,10509,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:25 AM,11/Aug/25 11:04 AM,,,04/Jul/25 12:00 AM,0,"As a user, I want to view pickup locations on a map, so that I can visually confirm the pickup point.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w5:,QUIC Sprint 1,,,,,,,,10172,QUIC-13,Map view functionality ,In Progress,10/Jul/25 8:15 PM
+Implement map view for delivery locations,QUIC-131,10507,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:24 AM,11/Aug/25 11:03 AM,,,04/Jul/25 12:00 AM,0,"As a user, I want to view delivery locations on a map, so that I can visually confirm the delivery destination.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w3:,QUIC Sprint 1,,,,,,,,10172,QUIC-13,Map view functionality ,In Progress,10/Jul/25 8:15 PM
+Update User Account with Verified Email,QUIC-130,10505,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:16 AM,11/Aug/25 11:01 AM,,,02/Jul/25 12:00 AM,0,"Once the email is verified, update the user's account to reflect the verified email address.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000un:,QUIC Sprint 1,,,,,,,,10487,QUIC-121,Add Email address functionality,In Progress,11/Aug/25 11:01 AM
+Verify Confirmation Code,QUIC-129,10503,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:15 AM,10/Jul/25 8:13 PM,,,02/Jul/25 12:00 AM,0,Implement the process for users to enter the confirmation code received via email to verify their email address.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000uf:,QUIC Sprint 1,,,,,,,,10487,QUIC-121,Add Email address functionality,In Progress,10/Jul/25 8:13 PM
+Send Confirmation Code to Email,QUIC-128,10501,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:15 AM,11/Aug/25 11:01 AM,,,02/Jul/25 12:00 AM,0,Develop the functionality to send a confirmation code to the user's email address after it is added to their account.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000u7:,QUIC Sprint 1,,,,,,,,10487,QUIC-121,Add Email address functionality,In Progress,11/Aug/25 11:01 AM
+Validate Email Address Format,QUIC-127,10499,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:14 AM,10/Jul/25 8:13 PM,,,02/Jul/25 12:00 AM,0,Implement validation logic to ensure the email address entered by the user is in the correct format.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000tz:,QUIC Sprint 1,,1.0,,,,,,10487,QUIC-121,Add Email address functionality,In Progress,10/Jul/25 8:13 PM
+Develop Account Deletion API Endpoint,QUIC-126,10497,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:08 AM,04/Jul/25 3:27 AM,,,,0,Create an API endpoint that facilitates the account deletion process. Ensure it is secure and handles requests efficiently.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000tr:,QUIC Sprint 1,,,,,,,,10485,QUIC-120,Delete Account functionality ,In Progress,04/Jul/25 3:27 AM
+Test Account Deletion Functionality,QUIC-125,10495,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:06 AM,11/Aug/25 11:00 AM,11/Aug/25 10:59 AM,,04/Jul/25 12:00 AM,0,"Conduct thorough testing of the account deletion feature to ensure it works as expected. This includes testing the user interface, backend logic, and API endpoint.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000tj:,QUIC Sprint 1,,,,,,,,10485,QUIC-120,Delete Account functionality ,In Progress,11/Aug/25 11:00 AM
+Create Confirmation Dialog for Account Deletion,QUIC-124,10493,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:06 AM,07/Jul/25 12:09 PM,,,03/Jul/25 12:00 AM,0,Implement a confirmation dialog that appears when a user initiates the account deletion process. The dialog should clearly inform the user of the consequences and require confirmation before proceeding.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000tb:,QUIC Sprint 1,,,,,,,,10485,QUIC-120,Delete Account functionality ,In Progress,07/Jul/25 12:09 PM
+Implement Backend Logic for Account Deletion,QUIC-123,10491,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:04 AM,03/Jul/25 10:17 PM,,,02/Jul/25 12:00 AM,0,Develop the backend functionality to handle account deletion requests. This includes removing user data from the database and ensuring all related data is properly managed.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000t3:,QUIC Sprint 1,,,,,,,,10485,QUIC-120,Delete Account functionality ,In Progress,03/Jul/25 10:17 PM
+Add Email address functionality,QUIC-121,10487,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:57 AM,11/Aug/25 10:55 AM,01/Jul/25 11:08 AM,,,0,"h2. Summary
+
+This issue is about implementing a feature that allows users to add an email address to their account.
+
+h2. Context
+
+Currently, users do not have the option to add an email address to their accounts. This functionality is necessary for account verification and communication purposes.
+
+h2. Acceptance criteria
+
+* Users must be able to add an email address to their account.
+* The email address should be validated for correct format.
+* Users should receive a confirmation code after adding their email address.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sr:,QUIC Sprint 1,,,,,,,,10135,QUIC-6,Customer Account Profile,In Progress,11/Aug/25 10:55 AM
+Delete Account functionality ,QUIC-120,10485,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:56 AM,11/Aug/25 10:55 AM,01/Jul/25 11:01 AM,,,0,"h2. Summary
+
+This issue is about implementing a feature that allows users to delete their accounts.
+
+h2. Context
+
+Currently, users do not have the option to delete their accounts. This functionality is necessary for user autonomy and data management.
+
+h2. Acceptance criteria
+
+* Users must be able to delete their accounts through the application.
+* The deletion process should be straightforward and user-friendly.
+* Confirmation should be required before finalizing the account deletion.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sf:,QUIC Sprint 1,,,,,,,,10135,QUIC-6,Customer Account Profile,In Progress,11/Aug/25 10:55 AM
+Implement Sign Up Endpoint Logic,QUIC-119,10483,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:53 AM,03/Jul/25 10:17 PM,01/Jul/25 10:55 AM,,,0,"Develop the backend logic for the sign up endpoint, ensuring it handles user data correctly and securely.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000s7:,QUIC Sprint 1,,,,,,,,10465,QUIC-110,Sign up Endpoint,In Progress,03/Jul/25 10:17 PM
+Integrate Sign Up Endpoint with Database,QUIC-118,10481,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:53 AM,10/Jul/25 8:12 PM,11/Aug/25 10:50 AM,,,0,Connect the sign up endpoint to the database to store user registration details securely.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000rz:,QUIC Sprint 1,,,,,,,,10465,QUIC-110,Sign up Endpoint,In Progress,10/Jul/25 8:12 PM
+Write Unit Tests for Sign Up Endpoint,QUIC-117,10480,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:53 AM,11/Aug/25 10:49 AM,11/Aug/25 10:48 AM,,,0,Create unit tests to verify the functionality and reliability of the sign up endpoint logic.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000rr:,QUIC Sprint 1,,,,,,,,10465,QUIC-110,Sign up Endpoint,In Progress,11/Aug/25 10:49 AM
+Document Sign In API Endpoint,QUIC-116,10477,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,03/Jul/25 10:14 PM,,,,0,"Create documentation for the sign in API endpoint, detailing how to use it and any necessary parameters.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000rj:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,03/Jul/25 10:14 PM
+Integrate Sign In with Database,QUIC-115,10473,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,10/Jul/25 8:13 PM,,,,0,Connect the sign in functionality with the database to verify user credentials and retrieve user data.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000rb:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,10/Jul/25 8:13 PM
+Design Sign In API Endpoint,QUIC-113,10471,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,11/Aug/25 10:59 AM,,,,0,"Design the API endpoint for user sign in, including request and response structures.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000r3:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,11/Aug/25 10:59 AM
+Write Unit Tests for Sign In Endpoint,QUIC-112,10475,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,11/Aug/25 10:58 AM,,,,0,Develop unit tests to ensure the sign in endpoint functions correctly and handles edge cases.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000qn:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,11/Aug/25 10:58 AM
+Create Sign In Error Handling,QUIC-111,10474,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,10/Jul/25 8:11 PM,07/Jul/25 9:46 AM,,,0,"Implement error handling for the sign in process, including incorrect password and user not found scenarios.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000qf:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,10/Jul/25 8:11 PM
+Implement Sign In Logic,QUIC-114,10472,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,03/Jul/25 10:14 PM,,,,0,"Develop the backend logic for authenticating users during sign in, including Phone number verification and session management.",,Divine Idehen,Odenbridge Technologies,Oladipupo Akindunbi,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,712020:08cab4df-fe21-466a-9645-f20eaeb11349,635fc38f7d4645af4f0331ee,,,,,,,,,{},,0|i000qv:,QUIC Sprint 1,,,,,,02/Jul/25 12:58 AM;712020:15e3613c-e48a-436e-be9f-95fcc39a42c4;password keh ?? [~accountid:635fc38f7d4645af4f0331ee] [~accountid:61fd566649fc43006952e766] or did something change ?,02/Jul/25 9:16 AM;635fc38f7d4645af4f0331ee;[~accountid:712020:15e3613c-e48a-436e-be9f-95fcc39a42c4] It’s a mistake. Corrected it. THANK you for pointing it out. ,10463,QUIC-109,Sign in Endpoint,In Progress,03/Jul/25 10:14 PM
+Sign up Endpoint,QUIC-110,10465,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:11 AM,04/Jul/25 2:31 PM,11/Aug/25 10:49 AM,,,0,Create sign up endpoint,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sc:,QUIC Sprint 1,,,,,,,,10101,QUIC-2, User Authentication & Login,In Progress,04/Jul/25 3:26 AM
+Sign in Endpoint,QUIC-109,10463,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:11 AM,04/Jul/25 2:30 PM,04/Jul/25 2:21 PM,,,0,Create sign in endpoint,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sd:,QUIC Sprint 1,,,,,,,,10101,QUIC-2, User Authentication & Login,In Progress,04/Jul/25 3:27 AM
+Integrate location autocomplete for pickup location,QUIC-108,10438,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:14 AM,24/Jun/25 9:14 AM,,,,0,Integrate a location autocomplete service to suggest pickup locations as the user types. This should enhance user experience by providing quick and accurate location suggestions.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000pr:,,,,,,,,,10168,QUIC-11,Type Pickup location,To Do,24/Jun/25 9:14 AM
+Implement text input for pickup location,QUIC-107,10436,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:14 AM,24/Jun/25 9:14 AM,,,,0,Develop the feature that allows users to type in their desired pickup location in the customer app. Ensure the input field is user-friendly and supports various address formats.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000pj:,,,,,,,,,10168,QUIC-11,Type Pickup location,To Do,24/Jun/25 9:14 AM
+Validate typed pickup location,QUIC-106,10435,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:14 AM,24/Jun/25 9:15 AM,,,,0,"h2. Summary
+
+Implement validation logic for the typed pickup location. Ensure it is valid and serviceable.
+
+h2. Context
+
+The issue involves checking the typed pickup location against a list of supported areas. Feedback should be provided to the user if the location is invalid.
+
+h2. Acceptance criteria
+
+* Validate the typed pickup location.
+* Check against a list of supported areas.
+* Provide user feedback for invalid locations.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000pb:,,,,,,,,,10168,QUIC-11,Type Pickup location,To Do,24/Jun/25 9:14 AM
+Create delivery location field,QUIC-105,10432,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:08 AM,10/Jul/25 8:10 PM,,,,0,"h2. Summary
+
+Create a field for users to input and select their delivery location. This will include a map integration for selecting locations and a list of suggested locations.
+
+h2. Context
+
+The goal is to enhance user experience by allowing easy selection of delivery locations.
+
+h2. Acceptance criteria
+
+* Users can type in their delivery location.
+* Users can select their delivery location from a map.
+* A list of automatically suggested locations is provided.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000p3:,,,,,,,,,10166,QUIC-10,Create instant delivery request fields,In Progress,10/Jul/25 8:10 PM
+Create pick-up location field,QUIC-104,10430,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:02 AM,10/Jul/25 8:08 PM,,,25/Jun/25 12:00 AM,0,"h2. Summary
+
+Create a field for users to input and select their pick-up location. This will include a map integration for selecting locations and a list of suggested locations.
+
+h2. Context
+
+The goal is to enhance user experience by allowing easy selection of pick-up locations.
+
+h2. Acceptance criteria
+
+* Users can type in their pick-up location.
+* Users can select their pick-up location from a map.
+* A list of automatically suggested locations is provided.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000ov:,,,,,,,,,10166,QUIC-10,Create instant delivery request fields,In Progress,10/Jul/25 8:08 PM
+Test Delivery Request Flow Trigger,QUIC-103,10419,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:33 AM,18/Jun/25 10:34 AM,,,,0,Test the functionality of the 'Send a Package' CTA button to ensure it correctly opens the delivery request flow screen and directs to the pickup and delivery screen when tapped.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000on:,,,,,,,,,10350,QUIC-74,“Send a Package” CTA Button,To Do,18/Jun/25 10:33 AM
+Implement 'Send a Package' CTA Button,QUIC-102,10420,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:33 AM,10/Jul/25 8:12 PM,,,,0,Develop the 'Send a Package' CTA button on the dashboard. Ensure it is functional and appears after user authentication during onboarding.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000of:,,,,,,,,,10350,QUIC-74,“Send a Package” CTA Button,In Progress,10/Jul/25 8:12 PM
+Test 'Send a Package' CTA Button Visibility,QUIC-100,10416,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:33 AM,18/Jun/25 10:34 AM,,,,0,Conduct tests to verify that the 'Send a Package' CTA button is visible after user authentication and during onboarding.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000o7:,,,,,,,,,10350,QUIC-74,“Send a Package” CTA Button,To Do,18/Jun/25 10:33 AM
+Integrate CTA Button with Delivery Request Flow,QUIC-101,10415,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:33 AM,10/Jul/25 8:13 PM,,,,0,Connect the 'Send a Package' CTA button to the delivery request flow. Ensure that tapping the button directs the user to the pickup and delivery screen.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000nz:,,,,,,,,,10350,QUIC-74,“Send a Package” CTA Button,In Progress,10/Jul/25 8:13 PM
+Implement Bottom Navigation Bar UI,QUIC-99,10412,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:08 PM,,,,0,"Design and implement the UI for the bottom navigation bar with three icons: Home, Orders, and Account. Ensure the active screen is visually highlighted.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000nr:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:08 PM
+Ensure Bottom Navigation Bar Visibility,QUIC-97,10407,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:08 PM,,,,0,"Ensure that the bottom navigation bar is always visible on the main app screens, regardless of the screen size or orientation.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000nj:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:08 PM
+Integrate Navigation Functionality for Account Tab,QUIC-98,10408,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:06 PM,,,,0,"Develop the functionality to navigate to the profile, wallet, and support links when the Account tab is selected. Ensure the Account tab is highlighted when active.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000nb:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:06 PM
+Integrate Navigation Functionality for Orders Tab,QUIC-96,10410,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:06 PM,,,,0,Develop the functionality to navigate to the list of past and current deliveries when the Orders tab is selected. Ensure the Orders tab is highlighted when active.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000n3:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:06 PM
+Integrate Navigation Functionality for Home Tab,QUIC-95,10409,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:06 PM,,,,0,Develop the functionality to navigate to the dashboard when the Home tab is selected. Ensure the Home tab is highlighted when active.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000mv:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:06 PM
+Test Recent Orders Feature,QUIC-94,10402,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:27 AM,,,,0,"Check the recent orders feature to make sure it works well and meets all the requirements, so users have a good experience.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000mn:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
+Update Orders List Automatically on Backend,QUIC-93,10400,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:24 AM,,,,0,"Make sure the backend updates the list of recent orders after each delivery is done, so the app always gets the latest information.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000mf:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
+Create Order Details API on Backend,QUIC-92,10398,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:24 AM,,,,0,"Set up a backend service that gives detailed information about a specific order, so the app can show all the details to users.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000m7:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
+Create Recent Orders API on Backend,QUIC-91,10396,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:24 AM,,,,0,"Set up a backend service that gives the app the 3-5 most recent orders, so the app can show this to users.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000lz:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
+Create Order Details Page on Frontend,QUIC-89,10393,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,10/Jul/25 8:12 PM,,,,0,"Build a page that shows more details about an order when a user clicks on it, so they can see all the information they need.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000lr:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,In Progress,10/Jul/25 8:12 PM
+Design Empty State for Recent Orders,QUIC-90,10394,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:23 AM,,,,0,"Create a design for when there are no recent orders to show, so users know there are no deliveries yet.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000lj:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
+Update Orders List Automatically on Frontend,QUIC-86,10390,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,10/Jul/25 8:16 PM,,,,0,"Make sure the list of recent orders updates by itself on the app after each delivery is done, so users always see the latest information.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000lb:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,In Progress,10/Jul/25 8:16 PM
+Build Recent Orders List on Frontend,QUIC-88,10391,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,07/Jul/25 12:07 PM,,,,0,"Make a list on the app that shows the 3-5 most recent orders, so users can track their deliveries easily.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000l3:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,In Progress,07/Jul/25 12:07 PM
+Design Recent Orders Card Layout,QUIC-87,10392,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:23 AM,,,,0,"Create a card design for showing recent orders, so users can easily see and interact with their deliveries.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000kv:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
+Integrate Google Places API for Autocomplete,QUIC-85,10384,Subtask,In Progress,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:03 AM,10/Jul/25 8:17 PM,,,,0,"On the frontend, integrate the Google Places API to provide location suggestions as users type in the pickup and delivery fields.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000kn:,,,,,,,,,10342,QUIC-70,Pickup & Delivery Location Fields,In Progress,10/Jul/25 8:17 PM
+Validate Locations Against Service Area,QUIC-84,10383,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:03 AM,18/Jun/25 10:16 AM,,,,0,Develop backend logic to validate that entered locations are within the service area. Return an error message if a location is outside the service area.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000kf:,,,,,,,,,10342,QUIC-70,Pickup & Delivery Location Fields,To Do,18/Jun/25 10:03 AM
+Develop Pickup and Delivery Input Fields,QUIC-83,10380,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:03 AM,07/Jul/25 12:05 PM,,,,0,Create two input fields on the frontend for users to enter pickup and delivery addresses. Ensure the pickup field is required before the delivery field becomes active.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000k7:,,,,,,,,,10342,QUIC-70,Pickup & Delivery Location Fields,In Progress,07/Jul/25 12:05 PM
+Setup Notification Data Retrieval (Backend),QUIC-81,10376,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,18/Jun/25 9:44 AM,,,,0,"Implement the backend service to retrieve notification data, including unread counts and notification details, to be displayed on the frontend.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000jz:,,,,,,,,,10330,QUIC-64,Notification Button,To Do,18/Jun/25 9:38 AM
+Test Notification Feature (Backend),QUIC-82,10378,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,18/Jun/25 9:52 AM,,,,0,"Conduct thorough testing of the backend notification services to ensure data is correctly retrieved, stored, and updated according to the business logic.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000jr:,,,,,,,,,10330,QUIC-64,Notification Button,To Do,18/Jun/25 9:38 AM
+Test Notification Feature (Frontend),QUIC-80,10375,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,18/Jun/25 9:52 AM,,,,0,"Conduct thorough testing of the frontend notification feature, including the icon, unread badge, and notification modal/screen, to ensure all acceptance criteria are met.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000jj:,,,,,,,,,10330,QUIC-64,Notification Button,To Do,18/Jun/25 9:38 AM
+Implement Notification Icon on Dashboard (Frontend),QUIC-79,10372,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,07/Jul/25 12:05 PM,,,,0,Develop and integrate the notification bell icon into the dashboard header. Ensure it is positioned correctly and is responsive across different devices.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000iv:,,,,,,,,,10330,QUIC-64,Notification Button,In Progress,07/Jul/25 12:05 PM
+Design Notification Icon (Frontend),QUIC-78,10371,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,07/Jul/25 12:05 PM,,,,0,Create a design for the notification bell icon that will be placed at the top-right corner of the dashboard. Ensure it is visually consistent with the app's design language.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000jb:,,,,,,,,,10330,QUIC-64,Notification Button,In Progress,07/Jul/25 12:05 PM
+Create Notification Modal or Screen (Frontend),QUIC-77,10368,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,07/Jul/25 12:04 PM,,,,0,Develop a modal or screen on the frontend that displays a list of notifications when the notification icon is tapped. Ensure the notifications are sorted with the latest first.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000in:,,,,,,,,,10330,QUIC-64,Notification Button,In Progress,07/Jul/25 12:04 PM
+Implement Read/Unread Notification Logic (Backend),QUIC-76,10369,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,18/Jun/25 9:52 AM,,,,0,Develop the backend logic to mark notifications as read when viewed and ensure they are stored appropriately. This includes updating the unread badge count.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000j3:,,,,,,,,,10330,QUIC-64,Notification Button,To Do,18/Jun/25 9:38 AM
+Develop Unread Badge Functionality (Frontend),QUIC-75,10370,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,10/Jul/25 8:16 PM,,,18/Jun/25 12:00 AM,0,Implement the frontend functionality to display an unread badge on the notification icon. The badge should accurately reflect the number of unread notifications.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000if:,,,,,,,,,10330,QUIC-64,Notification Button,In Progress,10/Jul/25 8:16 PM
+“Send a Package” CTA Button,QUIC-74,10350,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:43 PM,18/Jun/25 10:33 AM,,,,0,"*User Story:*
+As a user, I want to easily request a delivery from the dashboard when I register, so I can quickly book a rider.
+
+*Description:*
+A large primary CTA labeled ""Send a Package"" appears over the dashboard during onboarding. It triggers the delivery flow.
+
+*Acceptance Criteria:*
+
+* Button is visible after authentication
+* Button opens delivery request flow screen
+* Directs to pickup and delivery screen when tapped",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000i7:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:43 PM
+"Bottom Tab Navigation (Home, Orders, Account)",QUIC-73,10348,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:37 PM,16/Jun/25 4:38 PM,,,,0,"*User Story:*
+As a user, I want to easily switch between main areas of the app, so I can view deliveries or manage my account.
+
+*Description:*
+A bottom nav bar has 3 icons: Home, Orders, and Account. The active screen is highlighted.
+
+*Acceptance Criteria:*
+
+* Bottom nav bar is always visible on main app screens
+* Home navigates to dashboard
+* Orders opens list of past/current deliveries
+* Account opens profile, wallet, support links
+* Active tab is visually highlighted
+",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000hz:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:37 PM
+Recent Orders / Order History,QUIC-72,10346,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:34 PM,16/Jun/25 4:36 PM,,,,0,"*User Story:*
+As a user, I want to see my most recent deliveries so I can track progress and repeat orders easily.
+
+*Description:*
+A card-based list shows the 3–5 most recent orders with date, status, and route. Users can tap to see full details.
+
+*Acceptance Criteria:*
+
+* Displays at least the last 3 orders
+* Each card shows: Date, Pickup ➡ Delivery, Status (e.g., Delivered)
+* Tapping card opens detailed order page
+* List updates dynamically after each completed delivery
+* Shows empty state if no deliveries exist yet",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000hr:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:34 PM
+Promotions Image Section,QUIC-71,10344,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:33 PM,16/Jun/25 4:33 PM,,,,0,"*User Story:*
+As a user, I want to see current promotions so I can take advantage of discounts and offers.
+
+*Description:*
+A scrollable banner area shows active promotions fetched from the backend. Clicking a banner reveals more details.
+
+*Acceptance Criteria:*
+
+* At least one promotion card is displayed (or “No active promotions” message)
+* Cards are swipeable if multiple exist
+* Each card links to a promo details screen
+* Image/banner is optimized for different screen sizes",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000hj:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:33 PM
+Pickup & Delivery Location Fields,QUIC-70,10342,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:31 PM,18/Jun/25 10:02 AM,,,,0,"*User Story:*
+As a user, I want to enter my pickup and delivery addresses so I can schedule a package delivery.
+
+*Description:*
+Users enter pickup and delivery locations through input fields powered by autocomplete. Locations must be validated before continuing.
+
+*Acceptance Criteria:*
+
+* Two input fields are visible for pickup and delivery
+* Pickup is required before the delivery input is active
+* Location suggestions appear using the Google Places API
+* Error is shown if location is outside the service area",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000hb:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:31 PM
+Add Persistent Promotions Banner to Footer,QUIC-69,10338,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 12:03 PM,,,18/Jun/25 12:00 AM,0,"h2. Summary
+
+Implement a persistent promotions banner in the footer of the side menu. This banner will display ongoing promotions.
+
+h2. Context
+
+The goal is to enhance user engagement by showcasing current promotions directly in the footer of the side menu.
+
+h2. Acceptance criteria
+
+* A promotions banner must be added to the footer of the side menu.
+* The banner should display ongoing promotions.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000h3:,,,1.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 12:03 PM
+Integrate Profile Information in Side Menu,QUIC-67,10339,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 12:03 PM,,,18/Jun/25 12:00 AM,0,"Ensure the side menu displays the user's profile information, including username and profile picture, for context.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000gv:,,,1.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 12:03 PM
+Implement Breadcrumb Navigation,QUIC-68,10337,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 12:03 PM,,,18/Jun/25 12:00 AM,0,Develop breadcrumb navigation that shows the user's current location within the app and includes the username and profile picture icon for context.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000gn:,,,2.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 12:03 PM
+Implement Hamburger Menu Icon,QUIC-65,10336,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 11:16 AM,,,17/Jun/25 12:00 AM,0,Design and implement a visible hamburger menu icon on the main screen that users can tap to open the side menu drawer.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000gf:,,,1.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 11:16 AM
+Develop Side Menu Drawer,QUIC-66,10340,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 11:16 AM,,,17/Jun/25 12:00 AM,0,"h2. Summary
+
+Develop a side menu drawer that opens with a tap on the hamburger menu or a swipe from the side.
+
+h2. Context
+
+The side menu drawer will enhance user navigation within the application.
+
+h2. Acceptance criteria
+
+* The drawer opens when the hamburger menu is tapped.
+* The drawer opens when the user swipes from the side.
+* The drawer contains the following sections:
+** Profile
+** Payment
+** Promotions
+** My Orders
+** Help
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000g7:,,,2.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 11:16 AM
+Notification Button,QUIC-64,10330,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:04 PM,16/Jun/25 4:06 PM,,,,0,"*User Story:*
+As a user, I want to see app notifications so I can stay updated about deliveries, promos, and status alerts.
+
+*Description:*
+A notification bell icon sits at the top-right corner of the dashboard. It shows a badge for unread messages and opens a list of recent alerts.
+
+*Acceptance Criteria:*
+
+* Notification icon appears on dashboard header
+* Unread badge displays the correct count
+* Tapping opens a modal or screen with notifications (latest first)
+* Read notifications are marked and stored appropriately",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000fz:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:04 PM
+Access Side Menu (Breadcrumb & Navigation),QUIC-63,10328,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:00 PM,16/Jun/25 4:04 PM,,,,0,"*User Story:*
+As a user, I want to access the side menu easily from any screen, so I can manage my profile, payments, and help options.
+
+*Description:*
+The side menu opens from a hamburger icon or swipe, and shows key app sections. It includes profile info, wallet, orders, help, and promotions.
+
+*Acceptance Criteria:*
+
+* Hamburger menu is visible on the main screen
+* Tapping it opens the side menu drawer
+* Drawer contains Profile, Payment, Promotions, My Orders, Help
+* Footer includes a persistent promotions banner
+* Breadcrumb shows username and profile picture icon for context",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000fr:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:00 PM
+Design user interface for login screen,QUIC-62,10326,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,18/Jun/25 11:09 AM,,,16/Jun/25 12:00 AM,0,"Design and implement the user interface for the login screen, including fields for phone number input and OTP entry, ensuring a user-friendly experience.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000fb:,,,0.0,,,,,,10138,QUIC-9,Login to access account,In Progress,18/Jun/25 11:09 AM
+Develop OTP generation and sending mechanism,QUIC-61,10324,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,17/Jun/25 10:25 PM,,17/Jun/25 10:25 PM,17/Jun/25 12:00 AM,0,Create a system to generate a One-Time Password (OTP) and send it to the user's registered phone number after they attempt to log in.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000f3:,,,1.0,,,,,,10138,QUIC-9,Login to access account,Done,17/Jun/25 10:25 PM
+Implement phone number login functionality,QUIC-60,10323,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,10/Jul/25 8:10 PM,,,16/Jun/25 12:00 AM,0,Develop the functionality to allow users to log in using their registered phone number. Ensure that the phone number is validated against the registered number in the system.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000fj:,,,1.0,,,,,,10138,QUIC-9,Login to access account,In Progress,10/Jul/25 8:10 PM
+Create session management for logged-in users,QUIC-59,10320,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,17/Jun/25 10:25 PM,,17/Jun/25 10:25 PM,17/Jun/25 12:00 AM,0,Implement session management to keep users logged in until they choose to log out. Ensure that the session is secure and maintains user authentication.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000en:,,,1.0,,,,,,10138,QUIC-9,Login to access account,Done,17/Jun/25 10:25 PM
+Implement OTP verification process,QUIC-58,10319,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,17/Jun/25 10:26 PM,,17/Jun/25 10:26 PM,18/Jun/25 12:00 AM,0,Develop the process to verify the OTP entered by the user. Ensure that the OTP matches the one sent to the user's phone and is within the valid time frame.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000ev:,,,2.0,,,,,,10138,QUIC-9,Login to access account,Done,17/Jun/25 10:26 PM
+Implement resend OTP functionality,QUIC-57,10315,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,10/Jul/25 8:09 PM,,,17/Jun/25 12:00 AM,0,Develop the feature that allows users to request a resend of the OTP PIN if they did not receive it initially.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000ef:,,,0.0,,,,,,10137,QUIC-8,OTP verification,In Progress,10/Jul/25 8:09 PM
+Develop OTP verification logic,QUIC-56,10316,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,17/Jun/25 10:26 PM,,17/Jun/25 10:26 PM,17/Jun/25 12:00 AM,0,Implement the backend logic to verify the OTP PIN entered by the user against the generated OTP to confirm the user's phone number.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000e7:,,,1.0,,,,,,10137,QUIC-8,OTP verification,Done,17/Jun/25 10:26 PM
+Create OTP input field and validation,QUIC-55,10312,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,07/Jul/25 11:15 AM,,,17/Jun/25 12:00 AM,0,Design and implement the OTP input field where users can enter the OTP PIN they received. Ensure that the input is validated correctly.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000dz:,,,0.0,,,,,,10137,QUIC-8,OTP verification,In Progress,07/Jul/25 11:15 AM
+Design continue button and verification flow,QUIC-54,10313,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,18/Jun/25 11:08 AM,,,17/Jun/25 12:00 AM,0,"Create the continue button that users can click after entering the OTP PIN, and ensure the flow leads to successful verification or an error message if the OTP is incorrect.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000dr:,,,1.0,,,,,,10137,QUIC-8,OTP verification,In Progress,18/Jun/25 11:08 AM
+Implement OTP generation and sending,QUIC-53,10311,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,10/Jul/25 8:09 PM,,,17/Jun/25 12:00 AM,0,Develop the functionality to generate a unique OTP PIN and send it to the user's phone number after they input their phone number during sign-up.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000dj:,,,1.0,,,,,,10137,QUIC-8,OTP verification,In Progress,10/Jul/25 8:09 PM
+Implement Backend Logic for Phone Number Registration,QUIC-52,10306,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,17/Jun/25 10:21 PM,,17/Jun/25 10:21 PM,16/Jun/25 12:00 AM,0,Develop the backend functionality to handle phone number registration and linking to the Quickfleet account.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000cv:,,,1.0,,,,,,10100,QUIC-1,Sign up with phone number,Done,17/Jun/25 10:21 PM
+Test Phone Number Sign Up Process,QUIC-51,10304,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Oladipupo Akindunbi,635fc38f7d4645af4f0331ee,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,19/Jun/25 11:37 AM,,19/Jun/25 11:37 AM,,0,Conduct thorough testing to ensure the phone number sign-up process meets all acceptance criteria and functions correctly.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000db:,,,,,,,,,10100,QUIC-1,Sign up with phone number,Done,19/Jun/25 11:37 AM
+Validate Phone Number Format,QUIC-49,10300,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,17/Jun/25 10:26 PM,,17/Jun/25 10:26 PM,16/Jun/25 12:00 AM,0,"h2. Summary
+
+Implement validation logic for phone numbers. The phone number must be 11 digits long and include the Nigerian country code.
+
+h2. Context
+
+This issue focuses on ensuring that phone numbers entered into the system meet specific formatting requirements. The goal is to improve data integrity by validating phone numbers.
+
+h2. Acceptance criteria
+
+* Phone number must be exactly 11 digits.
+* Phone number must include the Nigerian country code.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000cn:,,,1.0,,,,,,10100,QUIC-1,Sign up with phone number,Done,17/Jun/25 10:26 PM
+Design User Interface for Phone Number Sign Up,QUIC-50,10302,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,18/Jun/25 11:06 AM,,,16/Jun/25 12:00 AM,0,Create a user-friendly interface for users to input their phone number during the sign-up process.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000d3:,,,1.0,,,,,,10100,QUIC-1,Sign up with phone number,In Progress,18/Jun/25 11:06 AM
+Integrate Phone Number Verification Service,QUIC-48,10301,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,10/Jul/25 8:08 PM,,,17/Jun/25 12:00 AM,0,"h2. Summary
+
+We need to integrate a phone number verification service. This service will confirm if a phone number is registered with a Nigerian provider and can receive messages.
+
+h2. Context
+
+The purpose of this integration is to ensure that users' phone numbers are valid and capable of receiving messages. This is crucial for communication and verification processes.
+
+h2. Acceptance criteria
+
+* The service must verify if the phone number is registered with a Nigerian phone service provider.
+* The service must confirm that the phone number can receive messages.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000cf:,,,1.0,,,,,,10100,QUIC-1,Sign up with phone number,In Progress,10/Jul/25 8:08 PM
+Dashboard,QUIC-47,10265,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,15/Jun/25 7:57 PM,15/Jun/25 7:57 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0002j:,,,,,,,,,,,,To Do,15/Jun/25 7:57 PM
+Select delivery date and time,QUIC-46,10264,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,15/Jun/25 7:56 PM,15/Jun/25 7:56 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000c7:,,,,,,,,,,,,To Do,15/Jun/25 7:57 PM
+Schedule delivery button,QUIC-45,10232,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,14/Jun/25 11:52 AM,14/Jun/25 11:52 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000bz:,,,,,,,,,10133,QUIC-4,Schedule Delivery Request,To Do,14/Jun/25 11:52 AM
+In-app Chat,QUIC-44,10226,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 4:00 PM,13/Jun/25 4:00 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000br:,,,,,,,,,,,,To Do,13/Jun/25 4:00 PM
+Customer Education,QUIC-43,10225,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 4:00 PM,13/Jun/25 4:00 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000bj:,,,,,,,,,,,,To Do,13/Jun/25 4:00 PM
+Wait-time Estimation,QUIC-42,10224,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:59 PM,13/Jun/25 3:59 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000bb:,,,,,,,,,,,,To Do,13/Jun/25 3:59 PM
+Rating & Reviews,QUIC-41,10223,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:59 PM,13/Jun/25 3:59 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000b3:,,,,,,,,,,,,To Do,13/Jun/25 3:59 PM
+Instant Payment Processing,QUIC-40,10222,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:59 PM,13/Jun/25 3:59 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000av:,,,,,,,,,,,,To Do,13/Jun/25 3:59 PM
+Real-Time GPS Tracking,QUIC-39,10221,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:58 PM,13/Jun/25 3:58 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000an:,,,,,,,,,,,,To Do,13/Jun/25 3:58 PM
+Order Matching,QUIC-38,10220,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:58 PM,13/Jun/25 3:58 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000af:,,,,,,,,,,,,To Do,13/Jun/25 3:58 PM
+Confirm & submit ride details,QUIC-37,10219,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:47 AM,13/Jun/25 9:47 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000a7:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:47 AM
+Summarize ride details,QUIC-36,10217,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:46 AM,13/Jun/25 9:46 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0009z:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:46 AM
+View available riders,QUIC-35,10215,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:45 AM,13/Jun/25 9:45 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0009r:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:45 AM
+Display Available truck type,QUIC-34,10213,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:45 AM,13/Jun/25 8:50 PM,,,,0,"As a user, I want to view the available truck types so that I can determine which one to choose from
+
+*Acceptance Criteria*
+
+* User can view available truck types
+* User can select from the list of available trucks
+* ",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0009j:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:45 AM
+Estimate delivery fare,QUIC-33,10211,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:44 AM,13/Jun/25 7:12 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0009b:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:44 AM
+Share ride details,QUIC-32,10209,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:44 AM,13/Jun/25 9:44 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00093:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:44 AM
+Share pick-up code with rider,QUIC-31,10207,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:44 AM,13/Jun/25 9:44 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0008v:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:44 AM
+Pick Up Code,QUIC-30,10205,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:40 AM,13/Jun/25 9:40 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0008n:,,,,,,,,,,,,To Do,13/Jun/25 9:40 AM
+Chat with rider,QUIC-29,10204,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:39 AM,13/Jun/25 9:39 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0008f:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:39 AM
+Estimate rider arrival,QUIC-28,10202,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:38 AM,13/Jun/25 9:38 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00087:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:38 AM
+View rider details,QUIC-27,10200,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:37 AM,13/Jun/25 9:37 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0007z:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:37 AM
+Match with rider,QUIC-26,10198,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:32 AM,13/Jun/25 9:32 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0007r:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:32 AM
+Search for Rider,QUIC-25,10196,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:31 AM,13/Jun/25 9:31 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0007j:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:31 AM
+Payment type,QUIC-24,10194,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:31 AM,13/Jun/25 9:31 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0007b:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:31 AM
+Payment method,QUIC-23,10192,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:30 AM,13/Jun/25 9:30 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00073:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:30 AM
+Choose delivery type,QUIC-22,10190,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:30 AM,13/Jun/25 9:30 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0006v:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:30 AM
+Select vehicle type,QUIC-21,10188,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:29 AM,13/Jun/25 9:29 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0006n:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:29 AM
+Provide receiver details,QUIC-20,10186,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:25 AM,13/Jun/25 6:25 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0006f:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:25 AM
+Provide sender details,QUIC-19,10184,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:25 AM,13/Jun/25 9:25 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00067:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:25 AM
+Mobile calling feature,QUIC-18,10182,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:24 AM,11/Aug/25 10:57 AM,01/Jul/25 12:16 PM,,,0,"h2. Summary
+
+The mobile calling feature allows users to call the driver to verify their location.
+
+h2. Context
+
+This feature is designed to enhance communication between users and drivers. It aims to improve the accuracy of location verification.
+
+h2. Acceptance criteria
+
+* Users must be able to initiate a call to the driver.
+* The call should connect successfully to verify the driver's location.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sz:r,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:57 AM
+Rider details ,QUIC-17,10180,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:23 AM,11/Aug/25 10:56 AM,01/Jul/25 11:54 AM,,,0,"h2. Summary
+
+The issue involves providing rider details to users. This is to help them verify the driver who is picking up their package.
+
+h2. Context
+
+Users need to confirm the identity of the driver for their package pickup. Providing rider details will enhance security and trust.
+
+h2. Acceptance criteria
+
+* Rider details must be provided to the user.
+* Users should be able to verify the driver picking up their package.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sz:i,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:56 AM
+Pricing endpoint,QUIC-16,10178,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:22 AM,11/Aug/25 10:56 AM,01/Jul/25 11:46 AM,,,0,"h2. Summary
+
+The issue involves creating a pricing endpoint. This endpoint will display the delivery price to users, helping them understand their payment obligations.
+
+h2. Context
+
+Currently, users do not have access to information regarding delivery prices. Implementing this endpoint will enhance user experience by providing necessary payment details.
+
+h2. Acceptance criteria
+
+* The pricing endpoint must return the delivery price.
+* Users should be able to access the delivery price easily.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sz:,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:56 AM
+Vehicle type endpoint,QUIC-15,10176,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:21 AM,11/Aug/25 10:56 AM,01/Jul/25 11:37 AM,,,0,"h2. Summary
+
+Create an interface for customers to view a list of vehicles. This will help them choose a vehicle based on their package.
+
+h2. Context
+
+The interface is needed to assist customers in selecting the appropriate vehicle.
+
+h2. Acceptance criteria
+
+* An interface must be created.
+* The interface should display a list of vehicles.
+* Customers should be able to select their vehicle of choice based on their package.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sy:,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:56 AM
+Package weight category,QUIC-14,10174,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:21 AM,11/Aug/25 10:57 AM,01/Jul/25 11:31 AM,,,0,"h2. Summary
+
+Create a list of weight categories for packages. This will help riders determine the size of customer packages and prepare the appropriate vehicle type for pickup.
+
+h2. Context
+
+The issue aims to improve the efficiency of package pickups by providing clear weight categories. This will assist riders in selecting the right vehicle for different package sizes.
+
+h2. Acceptance criteria
+
+* A comprehensive list of weight categories for packages must be created.
+* The list should be easily accessible to riders.
+* The weight categories should help in determining the appropriate vehicle type for pickup.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000t0:,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:57 AM
+Map view functionality ,QUIC-13,10172,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:20 AM,11/Aug/25 10:56 AM,01/Jul/25 11:21 AM,,,0,"h2. Summary
+
+The issue involves implementing a map view functionality. This feature will allow users to see delivery and pickup locations on a map.
+
+h2. Context
+
+The background of this issue is to enhance user experience by providing a visual representation of delivery and pickup locations.
+
+h2. Acceptance criteria
+
+* Users can view delivery locations on the map.
+* Users can view pickup locations on the map.
+
+h2. Other information
+
+N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sx:,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:56 AM
+Select Pickup location,QUIC-12,10170,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:20 AM,13/Jun/25 9:20 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0004n:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:20 AM
+Type Pickup location,QUIC-11,10168,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:19 AM,13/Jun/25 9:19 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0004f:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:19 AM
+Create instant delivery request fields,QUIC-10,10166,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:18 AM,19/Jun/25 9:46 AM,,,,0,"h2. Summary
+
+Create fields for accessing the instant delivery interface. This includes the pick-up and delivery fields.
+
+h2. Context
+
+The issue involves setting up necessary fields for the instant delivery feature.
+
+h2. Acceptance criteria
+
+* Create pick-up fields.
+* Create delivery fields.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00047:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:18 AM
+Login to access account,QUIC-9,10138,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 9:03 AM,12/Jun/25 9:07 AM,,,,0,"As a user, I want to log securely log in to my quickfleet account so that I can continue making delivery requests.
+
+*Acceptance Criteria*
+
+* User can securely log in to the account using the registered phone number
+* User received an OTP code after providing phone number
+* User phone number must match registered phone number
+* User can access account after providing OTP PIN
+* User remains logged in to their account unless they log out",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0003z:,,,,,,,,,,,,To Do,12/Jun/25 9:03 AM
+OTP verification,QUIC-8,10137,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:54 AM,12/Jun/25 9:02 AM,,,,0,"As a user, I want to receive and input an OTP PIN during sign up so that I can verify my phone number.
+
+*Acceptance Criteria*
+
+* User receives OTP PIN after inputting their phone number
+* OTP PIN is sent directly to the user phone number
+* User is prompted to input OTP PIN in the input field
+* User can input OTP PIN during sign-up after receiving code
+* User can click continue button after providing code for verification
+* User is verified after providing OTP PIN
+* User can request resend if OTP PIN is not sent",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0003r:,,,,,,,,,,,,To Do,12/Jun/25 8:54 AM
+Enables the user to make payment for all delivery requests,QUIC-7,10136,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:11 AM,12/Jun/25 8:11 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0003j:,,,,,,,,,,,,To Do,12/Jun/25 8:11 AM
+Customer Account Profile,QUIC-6,10135,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:10 AM,01/Jul/25 11:00 AM,01/Jul/25 10:59 AM,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0003b:,,,,,,,,,,,,To Do,12/Jun/25 8:10 AM
+Allows user to access delivery request feature and order history via the homepage,QUIC-5,10134,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:09 AM,12/Jun/25 8:09 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00033:,,,,,,,,,,,,To Do,12/Jun/25 8:09 AM
+Schedule Delivery Request,QUIC-4,10133,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:06 AM,12/Jun/25 9:33 AM,,,,0,"Provides the user with the ability to schedule delivery through the customer app.
+
+We want the user to be able to make an instant delivery request via the customer app. 
+
+This request allows user to request package pickup and delivery within the required time. 
+
+*Product Requirement*
+
+* User can initiate instant delivery request.
+* User can type and select pick-up location
+* User can select delivery location
+* User can select delivery location via map 
+* User can select from a list of automatically suggested pickup locations
+* User can select from a list of automatically suggested delivery locations
+* User can specify package weight details (Small, Medium, Large)
+* User can describe package details from a list of categories
+* User can describe the package in a description field
+* User provides sender details (Name & Phone No)
+* User provides receiver details (Name & Phone No)
+* User can select vehicle type (Bike, Car, Van, Truck)
+* User can choose delivery type
+* User can select payment method and type
+* User can search for a rider
+* User is matched with a rider after searching
+* User can see rider details
+* User can see estimated rider arrival details
+* User can chat with the rider after being matched
+* User can share pickup code with rider
+* User can share ride details
+* System should calculate the estimated delivery fare
+* System shows available driver/truck types
+* User confirms and submits the request
+* User can cancel delivery request
+
+
+
+*Design Requirement*
+
+*Engineering Requirement*",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},green,0|i0002v:,,,,,,,,,,,,To Do,12/Jun/25 8:06 AM
+Instant Delivery Request,QUIC-3,10132,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:01 AM,24/Jun/25 9:10 AM,,,,0,"Provides the user with the ability to request instant package pickup through the customer app.
+
+We want the user to be able to make an instant delivery request via the customer app. 
+
+This request allows user to request package pickup and delivery within the required time. 
+
+*Product Requirement*
+
+* User can initiate instant delivery request.
+* User can type and select pick-up location
+* User can select delivery location
+* User can select delivery location via map 
+* User can select from a list of automatically suggested pickup locations
+* User can select from a list of automatically suggested delivery locations
+* User can specify package weight details (Small, Medium, Large)
+* User can describe package details from a list of categories
+* User can describe the package in a description field
+* User provides sender details (Name & Phone No)
+* User provides receiver details (Name & Phone No)
+* User can select vehicle type (Bike, Car, Van, Truck)
+* User can choose delivery type
+* User can select payment method and type
+* User can search for a rider
+* User is matched with a rider after searching
+* User can see rider details
+* User can see estimated rider arrival details
+* User can chat with the rider after being matched
+* User can share pickup code with rider
+* User can share ride details
+* System should calculate the estimated delivery fare
+* System shows available driver/truck types
+* User confirms and submits the request
+* User can cancel delivery request
+
+
+
+*Design Requirement*
+
+*Engineering Requirement*",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0002n:,,,,648c4d1c-d8e0-49f8-84d6-25bf3547db4a,Dev Team,,,,,,,To Do,12/Jun/25 8:01 AM
+ User Authentication & Login,QUIC-2,10101,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,11/Jun/25 10:05 AM,12/Jun/25 8:46 AM,01/Jul/25 12:19 PM,,,0,Allows users to register their details before sending packages and requesting deliveries on the app.,,,,,,,,,,,,,,,,{},purple,0|i0002f:,,,,648c4d1c-d8e0-49f8-84d6-25bf3547db4a,Dev Team,,,,,,,To Do,11/Jun/25 10:05 AM
+Sign up with phone number,QUIC-1,10100,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,11/Jun/25 9:50 AM,12/Jun/25 8:54 AM,,,,0,"_As a user, I want to sign up with my phone number so that I can link my number to my Quickfleet account._
+
+*Acceptance Criteria:*
+
+* User provides a valid phone number to sign up
+* User phone number should be registered with a Nigerian phone service provider.
+* User phone number can receive messages
+* User phone number must be 11 digits
+* Nigerian country code is provided along side phone number",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00027:,,,,,,,,,,,,To Do,11/Jun/25 9:50 AM
