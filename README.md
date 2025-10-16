@@ -1,676 +1,9196 @@
 # quickfleet-product-backlog
 
-[backlog.md.csv](https://github.com/user-attachments/files/22944147/backlog.md.csv)
-Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers,Watchers,Watchers Id,Watchers Id,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Development),Custom field (Issue color),Custom field (Rank),Sprint,Custom field (Start date),Custom field (Story point estimate),Team Id,Team Name,Custom field (Vulnerability),Comment,Comment,Parent,Parent key,Parent summary,Status Category,Status Category Changed
-Driver Registration,QUIC-155,10561,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,11/Aug/25 11:22 AM,11/Aug/25 11:24 AM,11/Aug/25 3:27 PM,,,0,"*User Story*
-
-_As a driver, I want to sign up and log in to the App quickly, so I can start receiving delivery requests_",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000zz:,,,,,,,,,,,,To Do,11/Aug/25 11:22 AM
-Test mobile calling feature,QUIC-154,10553,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Olawunmi Sanusi,70121:180c0b9b-81d1-47a5-b4e3-a93e04a2be29,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:14 PM,11/Aug/25 11:05 AM,03/Jul/25 9:50 PM,,14/Jul/25 12:00 AM,0,"As a developer, I want to test the mobile calling feature to ensure it meets the acceptance criteria and functions correctly.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000zn:,QUIC Sprint 1,,1.0,,,,,,10182,QUIC-18,Mobile calling feature,In Progress,11/Aug/25 11:05 AM
-Integrate call feature with user interface,QUIC-153,10551,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:13 PM,11/Aug/25 11:05 AM,,,13/Jul/25 12:00 AM,0,"As a user, I want to have a seamless interface to initiate calls to the driver, so that I can easily verify their location.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000zr:,QUIC Sprint 1,,1.0,,,,,,10182,QUIC-18,Mobile calling feature,In Progress,11/Aug/25 11:05 AM
-Implement call initiation feature,QUIC-152,10549,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:10 PM,11/Aug/25 11:05 AM,,,13/Jul/25 12:00 AM,0,"As a user, I would like to initiate a call to the driver to confirm their location.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000zj:,QUIC Sprint 1,,1.0,,,,,,10182,QUIC-18,Mobile calling feature,In Progress,11/Aug/25 11:05 AM
-User Verification Process for Rider Details,QUIC-151,10547,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:02 PM,11/Aug/25 11:05 AM,,,13/Jul/25 12:00 AM,0,Create a process that allows users to verify rider details by sharing a unique 4-digit code with the rider. This process should encompass all necessary user interactions and confirmations within the app to ensure a seamless experience.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000yt:,QUIC Sprint 1,,,,,,,,10180,QUIC-17,Rider details ,In Progress,11/Aug/25 11:05 AM
-Test Rider Details Feature,QUIC-150,10545,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Olawunmi Sanusi,70121:180c0b9b-81d1-47a5-b4e3-a93e04a2be29,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 12:00 PM,11/Aug/25 11:05 AM,,,13/Jul/25 12:00 AM,0,Conduct thorough testing of the rider details feature to ensure it meets all acceptance criteria and functions correctly across different devices and scenarios.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000yr:,QUIC Sprint 1,,1.0,,,,,,10180,QUIC-17,Rider details ,In Progress,11/Aug/25 11:05 AM
-Integrate Rider Details with User Interface,QUIC-149,10543,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:59 AM,11/Aug/25 11:05 AM,,,12/Jul/25 12:00 AM,0,"Integrate the rider details API with the user interface, ensuring that the information is displayed correctly and updates in real-time as needed.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000yv:,QUIC Sprint 1,,1.0,,,,,,10180,QUIC-17,Rider details ,In Progress,11/Aug/25 11:05 AM
-Implement Rider Details API,QUIC-148,10541,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:58 AM,11/Aug/25 11:05 AM,,,11/Jul/25 12:00 AM,0,Develop the backend API to fetch and provide rider details to the frontend. Ensure the API is secure and can handle multiple requests efficiently.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000yn:,QUIC Sprint 1,,1.0,,,,,,10180,QUIC-17,Rider details ,In Progress,11/Aug/25 11:05 AM
-Document Pricing Endpoint API,QUIC-147,10539,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:53 AM,11/Aug/25 11:05 AM,,,11/Jul/25 12:00 AM,0,"Create comprehensive documentation for the pricing endpoint API, detailing its usage, parameters, and response formats for future reference and development.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xt:,QUIC Sprint 1,,1.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:05 AM
-Test Pricing Endpoint Functionality,QUIC-146,10537,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Olawunmi Sanusi,70121:180c0b9b-81d1-47a5-b4e3-a93e04a2be29,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:52 AM,11/Aug/25 11:05 AM,,,11/Jul/25 12:00 AM,0,Conduct thorough testing of the pricing endpoint to ensure it accurately returns the delivery price and handles edge cases effectively.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xv:,QUIC Sprint 1,,1.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:05 AM
-Integrate Pricing Endpoint with User Interface,QUIC-145,10535,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:51 AM,11/Aug/25 11:04 AM,,,10/Jul/25 12:00 AM,0,"Integrate the newly created pricing endpoint with the customer app interface, ensuring users can easily access and view the delivery price.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xz:,QUIC Sprint 1,,1.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:04 AM
-Implement Pricing Endpoint Logic,QUIC-144,10533,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:49 AM,11/Aug/25 11:04 AM,,,10/Jul/25 12:00 AM,0,"Develop the backend logic for the pricing endpoint to calculate and return the delivery price based on various factors such as distance, package weight, and delivery type.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xr:,QUIC Sprint 1,,2.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:04 AM
-Design Pricing Endpoint API,QUIC-143,10531,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:48 AM,11/Aug/25 11:04 AM,,,08/Jul/25 12:00 AM,0,"h2. Summary
-
-Design the API for the pricing endpoint. This API will return the delivery price to users. It needs to be secure and scalable.
-
-h2. Context
-
-The pricing endpoint is essential for providing users with accurate delivery pricing. It is important that the API adheres to best practices.
-
-h2. Acceptance criteria
-
-* The API must return the delivery price to users.
-* The API should be secure.
-* The API must be scalable.
-* The API should follow best practices.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000xj:,QUIC Sprint 1,,2.0,,,,,,10178,QUIC-16,Pricing endpoint,In Progress,11/Aug/25 11:04 AM
-Test Vehicle Type Interface,QUIC-142,10529,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:44 AM,11/Aug/25 11:04 AM,,,,0,"As a QA engineer, I want to test the vehicle type interface to ensure it displays the correct list of vehicles and allows selection based on package, so that customers have a seamless experience.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000x5:,QUIC Sprint 1,,,,,,,,10176,QUIC-15,Vehicle type endpoint,In Progress,11/Aug/25 11:04 AM
-Implement Vehicle Selection Logic,QUIC-141,10527,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:43 AM,10/Jul/25 8:17 PM,,,10/Jul/25 12:00 AM,0,"h2. Summary
-
-Implement the logic for vehicle selection. This will enable customers to choose a vehicle from a list for their delivery requests.
-
-h2. Context
-
-This feature is aimed at improving the customer experience during the delivery request process. It allows customers to select their preferred vehicle.
-
-h2. Acceptance criteria
-
-* Customers can view a list of available vehicles.
-* Customers can select a vehicle from the list.
-* The selected vehicle is confirmed for the delivery request.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000x3:,QUIC Sprint 1,,1.0,,,,,,10176,QUIC-15,Vehicle type endpoint,In Progress,10/Jul/25 8:17 PM
-Integrate Vehicle Selection with Package Options,QUIC-140,10525,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:42 AM,11/Aug/25 11:04 AM,,,10/Jul/25 12:00 AM,0,"h2. Summary
-
-Integrate the vehicle selection feature with package options. This will allow customers to choose a vehicle that fits their package requirements.
-
-h2. Context
-
-The integration aims to enhance the customer experience by providing a seamless way to select vehicles based on their chosen packages.
-
-h2. Acceptance criteria
-
-* Vehicle selection must be linked to package options.
-* Customers should see only the vehicles that match their selected package.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000x7:,QUIC Sprint 1,,1.0,,,,,,10176,QUIC-15,Vehicle type endpoint,In Progress,11/Aug/25 11:04 AM
-Develop Backend API for Vehicle List,QUIC-139,10523,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:40 AM,11/Aug/25 11:04 AM,11/Aug/25 11:04 AM,,07/Jul/25 12:00 AM,0,"h2. Summary
-
-Develop a backend API to provide a list of available vehicles for the frontend interface.
-
-h2. Context
-
-This API will allow the frontend to display vehicle information to customers.
-
-h2. Acceptance criteria
-
-* Create a backend API.
-* The API should return a list of available vehicles.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000wn:,QUIC Sprint 1,,,,,,,,10176,QUIC-15,Vehicle type endpoint,In Progress,11/Aug/25 11:04 AM
-Test weight category functionality,QUIC-138,10521,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:36 AM,11/Aug/25 11:06 AM,,,09/Jul/25 12:00 AM,0,"As a QA engineer, I want to test the weight category functionality in the rider app, so that I can ensure it works correctly and meets the acceptance criteria.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000wf:,QUIC Sprint 1,,,,,,,,10174,QUIC-14,Package weight category,In Progress,11/Aug/25 11:06 AM
-Integrate weight categories into rider app,QUIC-137,10519,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:35 AM,11/Aug/25 11:06 AM,,,08/Jul/25 12:00 AM,0,"As a developer, I want to integrate the defined weight categories into the rider app, so that users can use them to determine the appropriate vehicle type for package pickup.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w7:,QUIC Sprint 1,,1.0,,,,,,10174,QUIC-14,Package weight category,In Progress,11/Aug/25 11:06 AM
-Test map view functionality,QUIC-136,10517,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:30 AM,11/Aug/25 11:02 AM,11/Aug/25 11:02 AM,,07/Jul/25 12:00 AM,0,"As a tester, I want to test the map view functionality, so that I can ensure it meets the acceptance criteria and works as expected.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000vz:,QUIC Sprint 1,,,,,,,,10172,QUIC-13,Map view functionality ,In Progress,11/Aug/25 11:02 AM
-Develop user interface for map view,QUIC-135,10515,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:29 AM,11/Aug/25 11:04 AM,,,,0,"As a user, I want to see a user-friendly interface for the map view, so that i can easily interact with the map to view locations.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w1:,QUIC Sprint 1,,,,,,,,10172,QUIC-13,Map view functionality ,In Progress,10/Jul/25 8:15 PM
-Implement location markers on the map,QUIC-134,10513,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:28 AM,11/Aug/25 11:04 AM,,,07/Jul/25 12:00 AM,0,"As a user, I want to see markers for delivery and pickup locations on the map, so that I can easily identify them.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w4:,QUIC Sprint 1,,3.0,,,,,,10172,QUIC-13,Map view functionality ,In Progress,10/Jul/25 8:15 PM
-Integrate map API for location rendering,QUIC-133,10511,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:27 AM,11/Aug/25 11:01 AM,,,07/Jul/25 12:00 AM,0,"As a user, I want to see a map Summary
-
-Integrate a map API to render delivery and pickup locations on the map for users.
-
-h2. Context
-
-The integration of a map API will enhance user experience by providing visual representation of delivery and pickup locations.
-
-h2. Acceptance criteria
-
-* A map API must be integrated.
-* Delivery locations should be clearly marked on the map.
-* Pickup locations should also be clearly marked on the map.
-
-h2. Other information
-
-N/A, so that I can render delivery and pickup locations on the map.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000vb:,QUIC Sprint 1,,2.0,,,,,,10172,QUIC-13,Map view functionality ,In Progress,11/Aug/25 11:01 AM
-Implement map view for pickup locations,QUIC-132,10509,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:25 AM,11/Aug/25 11:04 AM,,,04/Jul/25 12:00 AM,0,"As a user, I want to view pickup locations on a map, so that I can visually confirm the pickup point.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w5:,QUIC Sprint 1,,,,,,,,10172,QUIC-13,Map view functionality ,In Progress,10/Jul/25 8:15 PM
-Implement map view for delivery locations,QUIC-131,10507,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:24 AM,11/Aug/25 11:03 AM,,,04/Jul/25 12:00 AM,0,"As a user, I want to view delivery locations on a map, so that I can visually confirm the delivery destination.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000w3:,QUIC Sprint 1,,,,,,,,10172,QUIC-13,Map view functionality ,In Progress,10/Jul/25 8:15 PM
-Update User Account with Verified Email,QUIC-130,10505,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:16 AM,11/Aug/25 11:01 AM,,,02/Jul/25 12:00 AM,0,"Once the email is verified, update the user's account to reflect the verified email address.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000un:,QUIC Sprint 1,,,,,,,,10487,QUIC-121,Add Email address functionality,In Progress,11/Aug/25 11:01 AM
-Verify Confirmation Code,QUIC-129,10503,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:15 AM,10/Jul/25 8:13 PM,,,02/Jul/25 12:00 AM,0,Implement the process for users to enter the confirmation code received via email to verify their email address.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000uf:,QUIC Sprint 1,,,,,,,,10487,QUIC-121,Add Email address functionality,In Progress,10/Jul/25 8:13 PM
-Send Confirmation Code to Email,QUIC-128,10501,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:15 AM,11/Aug/25 11:01 AM,,,02/Jul/25 12:00 AM,0,Develop the functionality to send a confirmation code to the user's email address after it is added to their account.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000u7:,QUIC Sprint 1,,,,,,,,10487,QUIC-121,Add Email address functionality,In Progress,11/Aug/25 11:01 AM
-Validate Email Address Format,QUIC-127,10499,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:14 AM,10/Jul/25 8:13 PM,,,02/Jul/25 12:00 AM,0,Implement validation logic to ensure the email address entered by the user is in the correct format.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000tz:,QUIC Sprint 1,,1.0,,,,,,10487,QUIC-121,Add Email address functionality,In Progress,10/Jul/25 8:13 PM
-Develop Account Deletion API Endpoint,QUIC-126,10497,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:08 AM,04/Jul/25 3:27 AM,,,,0,Create an API endpoint that facilitates the account deletion process. Ensure it is secure and handles requests efficiently.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000tr:,QUIC Sprint 1,,,,,,,,10485,QUIC-120,Delete Account functionality ,In Progress,04/Jul/25 3:27 AM
-Test Account Deletion Functionality,QUIC-125,10495,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:06 AM,11/Aug/25 11:00 AM,11/Aug/25 10:59 AM,,04/Jul/25 12:00 AM,0,"Conduct thorough testing of the account deletion feature to ensure it works as expected. This includes testing the user interface, backend logic, and API endpoint.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000tj:,QUIC Sprint 1,,,,,,,,10485,QUIC-120,Delete Account functionality ,In Progress,11/Aug/25 11:00 AM
-Create Confirmation Dialog for Account Deletion,QUIC-124,10493,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:06 AM,07/Jul/25 12:09 PM,,,03/Jul/25 12:00 AM,0,Implement a confirmation dialog that appears when a user initiates the account deletion process. The dialog should clearly inform the user of the consequences and require confirmation before proceeding.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000tb:,QUIC Sprint 1,,,,,,,,10485,QUIC-120,Delete Account functionality ,In Progress,07/Jul/25 12:09 PM
-Implement Backend Logic for Account Deletion,QUIC-123,10491,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 11:04 AM,03/Jul/25 10:17 PM,,,02/Jul/25 12:00 AM,0,Develop the backend functionality to handle account deletion requests. This includes removing user data from the database and ensuring all related data is properly managed.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000t3:,QUIC Sprint 1,,,,,,,,10485,QUIC-120,Delete Account functionality ,In Progress,03/Jul/25 10:17 PM
-Add Email address functionality,QUIC-121,10487,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:57 AM,11/Aug/25 10:55 AM,01/Jul/25 11:08 AM,,,0,"h2. Summary
-
-This issue is about implementing a feature that allows users to add an email address to their account.
-
-h2. Context
-
-Currently, users do not have the option to add an email address to their accounts. This functionality is necessary for account verification and communication purposes.
-
-h2. Acceptance criteria
-
-* Users must be able to add an email address to their account.
-* The email address should be validated for correct format.
-* Users should receive a confirmation code after adding their email address.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sr:,QUIC Sprint 1,,,,,,,,10135,QUIC-6,Customer Account Profile,In Progress,11/Aug/25 10:55 AM
-Delete Account functionality ,QUIC-120,10485,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:56 AM,11/Aug/25 10:55 AM,01/Jul/25 11:01 AM,,,0,"h2. Summary
-
-This issue is about implementing a feature that allows users to delete their accounts.
-
-h2. Context
-
-Currently, users do not have the option to delete their accounts. This functionality is necessary for user autonomy and data management.
-
-h2. Acceptance criteria
-
-* Users must be able to delete their accounts through the application.
-* The deletion process should be straightforward and user-friendly.
-* Confirmation should be required before finalizing the account deletion.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sf:,QUIC Sprint 1,,,,,,,,10135,QUIC-6,Customer Account Profile,In Progress,11/Aug/25 10:55 AM
-Implement Sign Up Endpoint Logic,QUIC-119,10483,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:53 AM,03/Jul/25 10:17 PM,01/Jul/25 10:55 AM,,,0,"Develop the backend logic for the sign up endpoint, ensuring it handles user data correctly and securely.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000s7:,QUIC Sprint 1,,,,,,,,10465,QUIC-110,Sign up Endpoint,In Progress,03/Jul/25 10:17 PM
-Integrate Sign Up Endpoint with Database,QUIC-118,10481,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:53 AM,10/Jul/25 8:12 PM,11/Aug/25 10:50 AM,,,0,Connect the sign up endpoint to the database to store user registration details securely.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000rz:,QUIC Sprint 1,,,,,,,,10465,QUIC-110,Sign up Endpoint,In Progress,10/Jul/25 8:12 PM
-Write Unit Tests for Sign Up Endpoint,QUIC-117,10480,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:53 AM,11/Aug/25 10:49 AM,11/Aug/25 10:48 AM,,,0,Create unit tests to verify the functionality and reliability of the sign up endpoint logic.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000rr:,QUIC Sprint 1,,,,,,,,10465,QUIC-110,Sign up Endpoint,In Progress,11/Aug/25 10:49 AM
-Document Sign In API Endpoint,QUIC-116,10477,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,03/Jul/25 10:14 PM,,,,0,"Create documentation for the sign in API endpoint, detailing how to use it and any necessary parameters.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000rj:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,03/Jul/25 10:14 PM
-Integrate Sign In with Database,QUIC-115,10473,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,10/Jul/25 8:13 PM,,,,0,Connect the sign in functionality with the database to verify user credentials and retrieve user data.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000rb:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,10/Jul/25 8:13 PM
-Design Sign In API Endpoint,QUIC-113,10471,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,11/Aug/25 10:59 AM,,,,0,"Design the API endpoint for user sign in, including request and response structures.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000r3:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,11/Aug/25 10:59 AM
-Write Unit Tests for Sign In Endpoint,QUIC-112,10475,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,11/Aug/25 10:58 AM,,,,0,Develop unit tests to ensure the sign in endpoint functions correctly and handles edge cases.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000qn:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,11/Aug/25 10:58 AM
-Create Sign In Error Handling,QUIC-111,10474,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,10/Jul/25 8:11 PM,07/Jul/25 9:46 AM,,,0,"Implement error handling for the sign in process, including incorrect password and user not found scenarios.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000qf:,QUIC Sprint 1,,,,,,,,10463,QUIC-109,Sign in Endpoint,In Progress,10/Jul/25 8:11 PM
-Implement Sign In Logic,QUIC-114,10472,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:47 AM,03/Jul/25 10:14 PM,,,,0,"Develop the backend logic for authenticating users during sign in, including Phone number verification and session management.",,Divine Idehen,Odenbridge Technologies,Oladipupo Akindunbi,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,712020:08cab4df-fe21-466a-9645-f20eaeb11349,635fc38f7d4645af4f0331ee,,,,,,,,,{},,0|i000qv:,QUIC Sprint 1,,,,,,02/Jul/25 12:58 AM;712020:15e3613c-e48a-436e-be9f-95fcc39a42c4;password keh ?? [~accountid:635fc38f7d4645af4f0331ee] [~accountid:61fd566649fc43006952e766] or did something change ?,02/Jul/25 9:16 AM;635fc38f7d4645af4f0331ee;[~accountid:712020:15e3613c-e48a-436e-be9f-95fcc39a42c4] It’s a mistake. Corrected it. THANK you for pointing it out. ,10463,QUIC-109,Sign in Endpoint,In Progress,03/Jul/25 10:14 PM
-Sign up Endpoint,QUIC-110,10465,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:11 AM,04/Jul/25 2:31 PM,11/Aug/25 10:49 AM,,,0,Create sign up endpoint,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sc:,QUIC Sprint 1,,,,,,,,10101,QUIC-2, User Authentication & Login,In Progress,04/Jul/25 3:26 AM
-Sign in Endpoint,QUIC-109,10463,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,01/Jul/25 10:11 AM,04/Jul/25 2:30 PM,04/Jul/25 2:21 PM,,,0,Create sign in endpoint,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sd:,QUIC Sprint 1,,,,,,,,10101,QUIC-2, User Authentication & Login,In Progress,04/Jul/25 3:27 AM
-Integrate location autocomplete for pickup location,QUIC-108,10438,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:14 AM,24/Jun/25 9:14 AM,,,,0,Integrate a location autocomplete service to suggest pickup locations as the user types. This should enhance user experience by providing quick and accurate location suggestions.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000pr:,,,,,,,,,10168,QUIC-11,Type Pickup location,To Do,24/Jun/25 9:14 AM
-Implement text input for pickup location,QUIC-107,10436,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:14 AM,24/Jun/25 9:14 AM,,,,0,Develop the feature that allows users to type in their desired pickup location in the customer app. Ensure the input field is user-friendly and supports various address formats.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000pj:,,,,,,,,,10168,QUIC-11,Type Pickup location,To Do,24/Jun/25 9:14 AM
-Validate typed pickup location,QUIC-106,10435,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:14 AM,24/Jun/25 9:15 AM,,,,0,"h2. Summary
-
-Implement validation logic for the typed pickup location. Ensure it is valid and serviceable.
-
-h2. Context
-
-The issue involves checking the typed pickup location against a list of supported areas. Feedback should be provided to the user if the location is invalid.
-
-h2. Acceptance criteria
-
-* Validate the typed pickup location.
-* Check against a list of supported areas.
-* Provide user feedback for invalid locations.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000pb:,,,,,,,,,10168,QUIC-11,Type Pickup location,To Do,24/Jun/25 9:14 AM
-Create delivery location field,QUIC-105,10432,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:08 AM,10/Jul/25 8:10 PM,,,,0,"h2. Summary
-
-Create a field for users to input and select their delivery location. This will include a map integration for selecting locations and a list of suggested locations.
-
-h2. Context
-
-The goal is to enhance user experience by allowing easy selection of delivery locations.
-
-h2. Acceptance criteria
-
-* Users can type in their delivery location.
-* Users can select their delivery location from a map.
-* A list of automatically suggested locations is provided.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000p3:,,,,,,,,,10166,QUIC-10,Create instant delivery request fields,In Progress,10/Jul/25 8:10 PM
-Create pick-up location field,QUIC-104,10430,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,24/Jun/25 9:02 AM,10/Jul/25 8:08 PM,,,25/Jun/25 12:00 AM,0,"h2. Summary
-
-Create a field for users to input and select their pick-up location. This will include a map integration for selecting locations and a list of suggested locations.
-
-h2. Context
-
-The goal is to enhance user experience by allowing easy selection of pick-up locations.
-
-h2. Acceptance criteria
-
-* Users can type in their pick-up location.
-* Users can select their pick-up location from a map.
-* A list of automatically suggested locations is provided.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000ov:,,,,,,,,,10166,QUIC-10,Create instant delivery request fields,In Progress,10/Jul/25 8:08 PM
-Test Delivery Request Flow Trigger,QUIC-103,10419,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:33 AM,18/Jun/25 10:34 AM,,,,0,Test the functionality of the 'Send a Package' CTA button to ensure it correctly opens the delivery request flow screen and directs to the pickup and delivery screen when tapped.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000on:,,,,,,,,,10350,QUIC-74,“Send a Package” CTA Button,To Do,18/Jun/25 10:33 AM
-Implement 'Send a Package' CTA Button,QUIC-102,10420,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:33 AM,10/Jul/25 8:12 PM,,,,0,Develop the 'Send a Package' CTA button on the dashboard. Ensure it is functional and appears after user authentication during onboarding.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000of:,,,,,,,,,10350,QUIC-74,“Send a Package” CTA Button,In Progress,10/Jul/25 8:12 PM
-Test 'Send a Package' CTA Button Visibility,QUIC-100,10416,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:33 AM,18/Jun/25 10:34 AM,,,,0,Conduct tests to verify that the 'Send a Package' CTA button is visible after user authentication and during onboarding.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000o7:,,,,,,,,,10350,QUIC-74,“Send a Package” CTA Button,To Do,18/Jun/25 10:33 AM
-Integrate CTA Button with Delivery Request Flow,QUIC-101,10415,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:33 AM,10/Jul/25 8:13 PM,,,,0,Connect the 'Send a Package' CTA button to the delivery request flow. Ensure that tapping the button directs the user to the pickup and delivery screen.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000nz:,,,,,,,,,10350,QUIC-74,“Send a Package” CTA Button,In Progress,10/Jul/25 8:13 PM
-Implement Bottom Navigation Bar UI,QUIC-99,10412,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:08 PM,,,,0,"Design and implement the UI for the bottom navigation bar with three icons: Home, Orders, and Account. Ensure the active screen is visually highlighted.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000nr:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:08 PM
-Ensure Bottom Navigation Bar Visibility,QUIC-97,10407,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:08 PM,,,,0,"Ensure that the bottom navigation bar is always visible on the main app screens, regardless of the screen size or orientation.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000nj:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:08 PM
-Integrate Navigation Functionality for Account Tab,QUIC-98,10408,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:06 PM,,,,0,"Develop the functionality to navigate to the profile, wallet, and support links when the Account tab is selected. Ensure the Account tab is highlighted when active.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000nb:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:06 PM
-Integrate Navigation Functionality for Orders Tab,QUIC-96,10410,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:06 PM,,,,0,Develop the functionality to navigate to the list of past and current deliveries when the Orders tab is selected. Ensure the Orders tab is highlighted when active.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000n3:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:06 PM
-Integrate Navigation Functionality for Home Tab,QUIC-95,10409,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:28 AM,07/Jul/25 12:06 PM,,,,0,Develop the functionality to navigate to the dashboard when the Home tab is selected. Ensure the Home tab is highlighted when active.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000mv:,,,,,,,,,10348,QUIC-73,"Bottom Tab Navigation (Home, Orders, Account)",In Progress,07/Jul/25 12:06 PM
-Test Recent Orders Feature,QUIC-94,10402,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:27 AM,,,,0,"Check the recent orders feature to make sure it works well and meets all the requirements, so users have a good experience.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000mn:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
-Update Orders List Automatically on Backend,QUIC-93,10400,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:24 AM,,,,0,"Make sure the backend updates the list of recent orders after each delivery is done, so the app always gets the latest information.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000mf:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
-Create Order Details API on Backend,QUIC-92,10398,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:24 AM,,,,0,"Set up a backend service that gives detailed information about a specific order, so the app can show all the details to users.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000m7:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
-Create Recent Orders API on Backend,QUIC-91,10396,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:24 AM,,,,0,"Set up a backend service that gives the app the 3-5 most recent orders, so the app can show this to users.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000lz:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
-Create Order Details Page on Frontend,QUIC-89,10393,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,10/Jul/25 8:12 PM,,,,0,"Build a page that shows more details about an order when a user clicks on it, so they can see all the information they need.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000lr:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,In Progress,10/Jul/25 8:12 PM
-Design Empty State for Recent Orders,QUIC-90,10394,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:23 AM,,,,0,"Create a design for when there are no recent orders to show, so users know there are no deliveries yet.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000lj:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
-Update Orders List Automatically on Frontend,QUIC-86,10390,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,10/Jul/25 8:16 PM,,,,0,"Make sure the list of recent orders updates by itself on the app after each delivery is done, so users always see the latest information.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000lb:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,In Progress,10/Jul/25 8:16 PM
-Build Recent Orders List on Frontend,QUIC-88,10391,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,07/Jul/25 12:07 PM,,,,0,"Make a list on the app that shows the 3-5 most recent orders, so users can track their deliveries easily.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000l3:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,In Progress,07/Jul/25 12:07 PM
-Design Recent Orders Card Layout,QUIC-87,10392,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:23 AM,18/Jun/25 10:23 AM,,,,0,"Create a card design for showing recent orders, so users can easily see and interact with their deliveries.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000kv:,,,,,,,,,10346,QUIC-72,Recent Orders / Order History,To Do,18/Jun/25 10:23 AM
-Integrate Google Places API for Autocomplete,QUIC-85,10384,Subtask,In Progress,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:03 AM,10/Jul/25 8:17 PM,,,,0,"On the frontend, integrate the Google Places API to provide location suggestions as users type in the pickup and delivery fields.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000kn:,,,,,,,,,10342,QUIC-70,Pickup & Delivery Location Fields,In Progress,10/Jul/25 8:17 PM
-Validate Locations Against Service Area,QUIC-84,10383,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:03 AM,18/Jun/25 10:16 AM,,,,0,Develop backend logic to validate that entered locations are within the service area. Return an error message if a location is outside the service area.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000kf:,,,,,,,,,10342,QUIC-70,Pickup & Delivery Location Fields,To Do,18/Jun/25 10:03 AM
-Develop Pickup and Delivery Input Fields,QUIC-83,10380,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 10:03 AM,07/Jul/25 12:05 PM,,,,0,Create two input fields on the frontend for users to enter pickup and delivery addresses. Ensure the pickup field is required before the delivery field becomes active.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000k7:,,,,,,,,,10342,QUIC-70,Pickup & Delivery Location Fields,In Progress,07/Jul/25 12:05 PM
-Setup Notification Data Retrieval (Backend),QUIC-81,10376,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,18/Jun/25 9:44 AM,,,,0,"Implement the backend service to retrieve notification data, including unread counts and notification details, to be displayed on the frontend.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000jz:,,,,,,,,,10330,QUIC-64,Notification Button,To Do,18/Jun/25 9:38 AM
-Test Notification Feature (Backend),QUIC-82,10378,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,18/Jun/25 9:52 AM,,,,0,"Conduct thorough testing of the backend notification services to ensure data is correctly retrieved, stored, and updated according to the business logic.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000jr:,,,,,,,,,10330,QUIC-64,Notification Button,To Do,18/Jun/25 9:38 AM
-Test Notification Feature (Frontend),QUIC-80,10375,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,18/Jun/25 9:52 AM,,,,0,"Conduct thorough testing of the frontend notification feature, including the icon, unread badge, and notification modal/screen, to ensure all acceptance criteria are met.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000jj:,,,,,,,,,10330,QUIC-64,Notification Button,To Do,18/Jun/25 9:38 AM
-Implement Notification Icon on Dashboard (Frontend),QUIC-79,10372,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,07/Jul/25 12:05 PM,,,,0,Develop and integrate the notification bell icon into the dashboard header. Ensure it is positioned correctly and is responsive across different devices.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000iv:,,,,,,,,,10330,QUIC-64,Notification Button,In Progress,07/Jul/25 12:05 PM
-Design Notification Icon (Frontend),QUIC-78,10371,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,07/Jul/25 12:05 PM,,,,0,Create a design for the notification bell icon that will be placed at the top-right corner of the dashboard. Ensure it is visually consistent with the app's design language.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000jb:,,,,,,,,,10330,QUIC-64,Notification Button,In Progress,07/Jul/25 12:05 PM
-Create Notification Modal or Screen (Frontend),QUIC-77,10368,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,07/Jul/25 12:04 PM,,,,0,Develop a modal or screen on the frontend that displays a list of notifications when the notification icon is tapped. Ensure the notifications are sorted with the latest first.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000in:,,,,,,,,,10330,QUIC-64,Notification Button,In Progress,07/Jul/25 12:04 PM
-Implement Read/Unread Notification Logic (Backend),QUIC-76,10369,Subtask,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,18/Jun/25 9:52 AM,,,,0,Develop the backend logic to mark notifications as read when viewed and ensure they are stored appropriately. This includes updating the unread badge count.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000j3:,,,,,,,,,10330,QUIC-64,Notification Button,To Do,18/Jun/25 9:38 AM
-Develop Unread Badge Functionality (Frontend),QUIC-75,10370,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,18/Jun/25 9:38 AM,10/Jul/25 8:16 PM,,,18/Jun/25 12:00 AM,0,Implement the frontend functionality to display an unread badge on the notification icon. The badge should accurately reflect the number of unread notifications.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000if:,,,,,,,,,10330,QUIC-64,Notification Button,In Progress,10/Jul/25 8:16 PM
-“Send a Package” CTA Button,QUIC-74,10350,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:43 PM,18/Jun/25 10:33 AM,,,,0,"*User Story:*
-As a user, I want to easily request a delivery from the dashboard when I register, so I can quickly book a rider.
-
-*Description:*
-A large primary CTA labeled ""Send a Package"" appears over the dashboard during onboarding. It triggers the delivery flow.
-
-*Acceptance Criteria:*
-
-* Button is visible after authentication
-* Button opens delivery request flow screen
-* Directs to pickup and delivery screen when tapped",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000i7:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:43 PM
-"Bottom Tab Navigation (Home, Orders, Account)",QUIC-73,10348,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:37 PM,16/Jun/25 4:38 PM,,,,0,"*User Story:*
-As a user, I want to easily switch between main areas of the app, so I can view deliveries or manage my account.
-
-*Description:*
-A bottom nav bar has 3 icons: Home, Orders, and Account. The active screen is highlighted.
-
-*Acceptance Criteria:*
-
-* Bottom nav bar is always visible on main app screens
-* Home navigates to dashboard
-* Orders opens list of past/current deliveries
-* Account opens profile, wallet, support links
-* Active tab is visually highlighted
-",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000hz:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:37 PM
-Recent Orders / Order History,QUIC-72,10346,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:34 PM,16/Jun/25 4:36 PM,,,,0,"*User Story:*
-As a user, I want to see my most recent deliveries so I can track progress and repeat orders easily.
-
-*Description:*
-A card-based list shows the 3–5 most recent orders with date, status, and route. Users can tap to see full details.
-
-*Acceptance Criteria:*
-
-* Displays at least the last 3 orders
-* Each card shows: Date, Pickup ➡ Delivery, Status (e.g., Delivered)
-* Tapping card opens detailed order page
-* List updates dynamically after each completed delivery
-* Shows empty state if no deliveries exist yet",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000hr:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:34 PM
-Promotions Image Section,QUIC-71,10344,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:33 PM,16/Jun/25 4:33 PM,,,,0,"*User Story:*
-As a user, I want to see current promotions so I can take advantage of discounts and offers.
-
-*Description:*
-A scrollable banner area shows active promotions fetched from the backend. Clicking a banner reveals more details.
-
-*Acceptance Criteria:*
-
-* At least one promotion card is displayed (or “No active promotions” message)
-* Cards are swipeable if multiple exist
-* Each card links to a promo details screen
-* Image/banner is optimized for different screen sizes",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000hj:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:33 PM
-Pickup & Delivery Location Fields,QUIC-70,10342,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:31 PM,18/Jun/25 10:02 AM,,,,0,"*User Story:*
-As a user, I want to enter my pickup and delivery addresses so I can schedule a package delivery.
-
-*Description:*
-Users enter pickup and delivery locations through input fields powered by autocomplete. Locations must be validated before continuing.
-
-*Acceptance Criteria:*
-
-* Two input fields are visible for pickup and delivery
-* Pickup is required before the delivery input is active
-* Location suggestions appear using the Google Places API
-* Error is shown if location is outside the service area",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000hb:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:31 PM
-Add Persistent Promotions Banner to Footer,QUIC-69,10338,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 12:03 PM,,,18/Jun/25 12:00 AM,0,"h2. Summary
-
-Implement a persistent promotions banner in the footer of the side menu. This banner will display ongoing promotions.
-
-h2. Context
-
-The goal is to enhance user engagement by showcasing current promotions directly in the footer of the side menu.
-
-h2. Acceptance criteria
-
-* A promotions banner must be added to the footer of the side menu.
-* The banner should display ongoing promotions.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000h3:,,,1.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 12:03 PM
-Integrate Profile Information in Side Menu,QUIC-67,10339,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 12:03 PM,,,18/Jun/25 12:00 AM,0,"Ensure the side menu displays the user's profile information, including username and profile picture, for context.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000gv:,,,1.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 12:03 PM
-Implement Breadcrumb Navigation,QUIC-68,10337,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 12:03 PM,,,18/Jun/25 12:00 AM,0,Develop breadcrumb navigation that shows the user's current location within the app and includes the username and profile picture icon for context.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000gn:,,,2.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 12:03 PM
-Implement Hamburger Menu Icon,QUIC-65,10336,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 11:16 AM,,,17/Jun/25 12:00 AM,0,Design and implement a visible hamburger menu icon on the main screen that users can tap to open the side menu drawer.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000gf:,,,1.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 11:16 AM
-Develop Side Menu Drawer,QUIC-66,10340,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:07 PM,07/Jul/25 11:16 AM,,,17/Jun/25 12:00 AM,0,"h2. Summary
-
-Develop a side menu drawer that opens with a tap on the hamburger menu or a swipe from the side.
-
-h2. Context
-
-The side menu drawer will enhance user navigation within the application.
-
-h2. Acceptance criteria
-
-* The drawer opens when the hamburger menu is tapped.
-* The drawer opens when the user swipes from the side.
-* The drawer contains the following sections:
-** Profile
-** Payment
-** Promotions
-** My Orders
-** Help
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000g7:,,,2.0,,,,,,10328,QUIC-63,Access Side Menu (Breadcrumb & Navigation),In Progress,07/Jul/25 11:16 AM
-Notification Button,QUIC-64,10330,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:04 PM,16/Jun/25 4:06 PM,,,,0,"*User Story:*
-As a user, I want to see app notifications so I can stay updated about deliveries, promos, and status alerts.
-
-*Description:*
-A notification bell icon sits at the top-right corner of the dashboard. It shows a badge for unread messages and opens a list of recent alerts.
-
-*Acceptance Criteria:*
-
-* Notification icon appears on dashboard header
-* Unread badge displays the correct count
-* Tapping opens a modal or screen with notifications (latest first)
-* Read notifications are marked and stored appropriately",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000fz:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:04 PM
-Access Side Menu (Breadcrumb & Navigation),QUIC-63,10328,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 4:00 PM,16/Jun/25 4:04 PM,,,,0,"*User Story:*
-As a user, I want to access the side menu easily from any screen, so I can manage my profile, payments, and help options.
-
-*Description:*
-The side menu opens from a hamburger icon or swipe, and shows key app sections. It includes profile info, wallet, orders, help, and promotions.
-
-*Acceptance Criteria:*
-
-* Hamburger menu is visible on the main screen
-* Tapping it opens the side menu drawer
-* Drawer contains Profile, Payment, Promotions, My Orders, Help
-* Footer includes a persistent promotions banner
-* Breadcrumb shows username and profile picture icon for context",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000fr:,,,,,,,,,10265,QUIC-47,Dashboard,To Do,16/Jun/25 4:00 PM
-Design user interface for login screen,QUIC-62,10326,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,18/Jun/25 11:09 AM,,,16/Jun/25 12:00 AM,0,"Design and implement the user interface for the login screen, including fields for phone number input and OTP entry, ensuring a user-friendly experience.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000fb:,,,0.0,,,,,,10138,QUIC-9,Login to access account,In Progress,18/Jun/25 11:09 AM
-Develop OTP generation and sending mechanism,QUIC-61,10324,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,17/Jun/25 10:25 PM,,17/Jun/25 10:25 PM,17/Jun/25 12:00 AM,0,Create a system to generate a One-Time Password (OTP) and send it to the user's registered phone number after they attempt to log in.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000f3:,,,1.0,,,,,,10138,QUIC-9,Login to access account,Done,17/Jun/25 10:25 PM
-Implement phone number login functionality,QUIC-60,10323,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,10/Jul/25 8:10 PM,,,16/Jun/25 12:00 AM,0,Develop the functionality to allow users to log in using their registered phone number. Ensure that the phone number is validated against the registered number in the system.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000fj:,,,1.0,,,,,,10138,QUIC-9,Login to access account,In Progress,10/Jul/25 8:10 PM
-Create session management for logged-in users,QUIC-59,10320,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,17/Jun/25 10:25 PM,,17/Jun/25 10:25 PM,17/Jun/25 12:00 AM,0,Implement session management to keep users logged in until they choose to log out. Ensure that the session is secure and maintains user authentication.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000en:,,,1.0,,,,,,10138,QUIC-9,Login to access account,Done,17/Jun/25 10:25 PM
-Implement OTP verification process,QUIC-58,10319,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:32 PM,17/Jun/25 10:26 PM,,17/Jun/25 10:26 PM,18/Jun/25 12:00 AM,0,Develop the process to verify the OTP entered by the user. Ensure that the OTP matches the one sent to the user's phone and is within the valid time frame.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000ev:,,,2.0,,,,,,10138,QUIC-9,Login to access account,Done,17/Jun/25 10:26 PM
-Implement resend OTP functionality,QUIC-57,10315,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,10/Jul/25 8:09 PM,,,17/Jun/25 12:00 AM,0,Develop the feature that allows users to request a resend of the OTP PIN if they did not receive it initially.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000ef:,,,0.0,,,,,,10137,QUIC-8,OTP verification,In Progress,10/Jul/25 8:09 PM
-Develop OTP verification logic,QUIC-56,10316,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,17/Jun/25 10:26 PM,,17/Jun/25 10:26 PM,17/Jun/25 12:00 AM,0,Implement the backend logic to verify the OTP PIN entered by the user against the generated OTP to confirm the user's phone number.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000e7:,,,1.0,,,,,,10137,QUIC-8,OTP verification,Done,17/Jun/25 10:26 PM
-Create OTP input field and validation,QUIC-55,10312,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,07/Jul/25 11:15 AM,,,17/Jun/25 12:00 AM,0,Design and implement the OTP input field where users can enter the OTP PIN they received. Ensure that the input is validated correctly.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000dz:,,,0.0,,,,,,10137,QUIC-8,OTP verification,In Progress,07/Jul/25 11:15 AM
-Design continue button and verification flow,QUIC-54,10313,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,18/Jun/25 11:08 AM,,,17/Jun/25 12:00 AM,0,"Create the continue button that users can click after entering the OTP PIN, and ensure the flow leads to successful verification or an error message if the OTP is incorrect.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000dr:,,,1.0,,,,,,10137,QUIC-8,OTP verification,In Progress,18/Jun/25 11:08 AM
-Implement OTP generation and sending,QUIC-53,10311,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:15 PM,10/Jul/25 8:09 PM,,,17/Jun/25 12:00 AM,0,Develop the functionality to generate a unique OTP PIN and send it to the user's phone number after they input their phone number during sign-up.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000dj:,,,1.0,,,,,,10137,QUIC-8,OTP verification,In Progress,10/Jul/25 8:09 PM
-Implement Backend Logic for Phone Number Registration,QUIC-52,10306,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,17/Jun/25 10:21 PM,,17/Jun/25 10:21 PM,16/Jun/25 12:00 AM,0,Develop the backend functionality to handle phone number registration and linking to the Quickfleet account.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000cv:,,,1.0,,,,,,10100,QUIC-1,Sign up with phone number,Done,17/Jun/25 10:21 PM
-Test Phone Number Sign Up Process,QUIC-51,10304,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Oladipupo Akindunbi,635fc38f7d4645af4f0331ee,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,19/Jun/25 11:37 AM,,19/Jun/25 11:37 AM,,0,Conduct thorough testing to ensure the phone number sign-up process meets all acceptance criteria and functions correctly.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000db:,,,,,,,,,10100,QUIC-1,Sign up with phone number,Done,19/Jun/25 11:37 AM
-Validate Phone Number Format,QUIC-49,10300,Subtask,QA,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,Done,Divine Idehen,712020:15e3613c-e48a-436e-be9f-95fcc39a42c4,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,17/Jun/25 10:26 PM,,17/Jun/25 10:26 PM,16/Jun/25 12:00 AM,0,"h2. Summary
-
-Implement validation logic for phone numbers. The phone number must be 11 digits long and include the Nigerian country code.
-
-h2. Context
-
-This issue focuses on ensuring that phone numbers entered into the system meet specific formatting requirements. The goal is to improve data integrity by validating phone numbers.
-
-h2. Acceptance criteria
-
-* Phone number must be exactly 11 digits.
-* Phone number must include the Nigerian country code.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000cn:,,,1.0,,,,,,10100,QUIC-1,Sign up with phone number,Done,17/Jun/25 10:26 PM
-Design User Interface for Phone Number Sign Up,QUIC-50,10302,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,18/Jun/25 11:06 AM,,,16/Jun/25 12:00 AM,0,Create a user-friendly interface for users to input their phone number during the sign-up process.,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000d3:,,,1.0,,,,,,10100,QUIC-1,Sign up with phone number,In Progress,18/Jun/25 11:06 AM
-Integrate Phone Number Verification Service,QUIC-48,10301,Subtask,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,Etomu Gbenga Joshua,61fd566649fc43006952e766,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,16/Jun/25 3:08 PM,10/Jul/25 8:08 PM,,,17/Jun/25 12:00 AM,0,"h2. Summary
-
-We need to integrate a phone number verification service. This service will confirm if a phone number is registered with a Nigerian provider and can receive messages.
-
-h2. Context
-
-The purpose of this integration is to ensure that users' phone numbers are valid and capable of receiving messages. This is crucial for communication and verification processes.
-
-h2. Acceptance criteria
-
-* The service must verify if the phone number is registered with a Nigerian phone service provider.
-* The service must confirm that the phone number can receive messages.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000cf:,,,1.0,,,,,,10100,QUIC-1,Sign up with phone number,In Progress,10/Jul/25 8:08 PM
-Dashboard,QUIC-47,10265,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,15/Jun/25 7:57 PM,15/Jun/25 7:57 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0002j:,,,,,,,,,,,,To Do,15/Jun/25 7:57 PM
-Select delivery date and time,QUIC-46,10264,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,15/Jun/25 7:56 PM,15/Jun/25 7:56 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000c7:,,,,,,,,,,,,To Do,15/Jun/25 7:57 PM
-Schedule delivery button,QUIC-45,10232,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,14/Jun/25 11:52 AM,14/Jun/25 11:52 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000bz:,,,,,,,,,10133,QUIC-4,Schedule Delivery Request,To Do,14/Jun/25 11:52 AM
-In-app Chat,QUIC-44,10226,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 4:00 PM,13/Jun/25 4:00 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000br:,,,,,,,,,,,,To Do,13/Jun/25 4:00 PM
-Customer Education,QUIC-43,10225,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 4:00 PM,13/Jun/25 4:00 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000bj:,,,,,,,,,,,,To Do,13/Jun/25 4:00 PM
-Wait-time Estimation,QUIC-42,10224,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:59 PM,13/Jun/25 3:59 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000bb:,,,,,,,,,,,,To Do,13/Jun/25 3:59 PM
-Rating & Reviews,QUIC-41,10223,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:59 PM,13/Jun/25 3:59 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000b3:,,,,,,,,,,,,To Do,13/Jun/25 3:59 PM
-Instant Payment Processing,QUIC-40,10222,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:59 PM,13/Jun/25 3:59 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000av:,,,,,,,,,,,,To Do,13/Jun/25 3:59 PM
-Real-Time GPS Tracking,QUIC-39,10221,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:58 PM,13/Jun/25 3:58 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000an:,,,,,,,,,,,,To Do,13/Jun/25 3:58 PM
-Order Matching,QUIC-38,10220,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 3:58 PM,13/Jun/25 3:58 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000af:,,,,,,,,,,,,To Do,13/Jun/25 3:58 PM
-Confirm & submit ride details,QUIC-37,10219,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:47 AM,13/Jun/25 9:47 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000a7:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:47 AM
-Summarize ride details,QUIC-36,10217,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:46 AM,13/Jun/25 9:46 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0009z:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:46 AM
-View available riders,QUIC-35,10215,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:45 AM,13/Jun/25 9:45 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0009r:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:45 AM
-Display Available truck type,QUIC-34,10213,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:45 AM,13/Jun/25 8:50 PM,,,,0,"As a user, I want to view the available truck types so that I can determine which one to choose from
-
-*Acceptance Criteria*
-
-* User can view available truck types
-* User can select from the list of available trucks
-* ",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0009j:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:45 AM
-Estimate delivery fare,QUIC-33,10211,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:44 AM,13/Jun/25 7:12 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0009b:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:44 AM
-Share ride details,QUIC-32,10209,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:44 AM,13/Jun/25 9:44 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00093:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:44 AM
-Share pick-up code with rider,QUIC-31,10207,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:44 AM,13/Jun/25 9:44 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0008v:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:44 AM
-Pick Up Code,QUIC-30,10205,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:40 AM,13/Jun/25 9:40 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0008n:,,,,,,,,,,,,To Do,13/Jun/25 9:40 AM
-Chat with rider,QUIC-29,10204,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:39 AM,13/Jun/25 9:39 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0008f:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:39 AM
-Estimate rider arrival,QUIC-28,10202,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:38 AM,13/Jun/25 9:38 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00087:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:38 AM
-View rider details,QUIC-27,10200,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:37 AM,13/Jun/25 9:37 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0007z:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:37 AM
-Match with rider,QUIC-26,10198,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:32 AM,13/Jun/25 9:32 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0007r:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:32 AM
-Search for Rider,QUIC-25,10196,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:31 AM,13/Jun/25 9:31 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0007j:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:31 AM
-Payment type,QUIC-24,10194,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:31 AM,13/Jun/25 9:31 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0007b:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:31 AM
-Payment method,QUIC-23,10192,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:30 AM,13/Jun/25 9:30 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00073:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:30 AM
-Choose delivery type,QUIC-22,10190,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:30 AM,13/Jun/25 9:30 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0006v:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:30 AM
-Select vehicle type,QUIC-21,10188,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:29 AM,13/Jun/25 9:29 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0006n:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:29 AM
-Provide receiver details,QUIC-20,10186,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:25 AM,13/Jun/25 6:25 PM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0006f:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:25 AM
-Provide sender details,QUIC-19,10184,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:25 AM,13/Jun/25 9:25 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00067:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:25 AM
-Mobile calling feature,QUIC-18,10182,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:24 AM,11/Aug/25 10:57 AM,01/Jul/25 12:16 PM,,,0,"h2. Summary
-
-The mobile calling feature allows users to call the driver to verify their location.
-
-h2. Context
-
-This feature is designed to enhance communication between users and drivers. It aims to improve the accuracy of location verification.
-
-h2. Acceptance criteria
-
-* Users must be able to initiate a call to the driver.
-* The call should connect successfully to verify the driver's location.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sz:r,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:57 AM
-Rider details ,QUIC-17,10180,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:23 AM,11/Aug/25 10:56 AM,01/Jul/25 11:54 AM,,,0,"h2. Summary
-
-The issue involves providing rider details to users. This is to help them verify the driver who is picking up their package.
-
-h2. Context
-
-Users need to confirm the identity of the driver for their package pickup. Providing rider details will enhance security and trust.
-
-h2. Acceptance criteria
-
-* Rider details must be provided to the user.
-* Users should be able to verify the driver picking up their package.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sz:i,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:56 AM
-Pricing endpoint,QUIC-16,10178,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:22 AM,11/Aug/25 10:56 AM,01/Jul/25 11:46 AM,,,0,"h2. Summary
-
-The issue involves creating a pricing endpoint. This endpoint will display the delivery price to users, helping them understand their payment obligations.
-
-h2. Context
-
-Currently, users do not have access to information regarding delivery prices. Implementing this endpoint will enhance user experience by providing necessary payment details.
-
-h2. Acceptance criteria
-
-* The pricing endpoint must return the delivery price.
-* Users should be able to access the delivery price easily.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sz:,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:56 AM
-Vehicle type endpoint,QUIC-15,10176,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:21 AM,11/Aug/25 10:56 AM,01/Jul/25 11:37 AM,,,0,"h2. Summary
-
-Create an interface for customers to view a list of vehicles. This will help them choose a vehicle based on their package.
-
-h2. Context
-
-The interface is needed to assist customers in selecting the appropriate vehicle.
-
-h2. Acceptance criteria
-
-* An interface must be created.
-* The interface should display a list of vehicles.
-* Customers should be able to select their vehicle of choice based on their package.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sy:,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:56 AM
-Package weight category,QUIC-14,10174,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:21 AM,11/Aug/25 10:57 AM,01/Jul/25 11:31 AM,,,0,"h2. Summary
-
-Create a list of weight categories for packages. This will help riders determine the size of customer packages and prepare the appropriate vehicle type for pickup.
-
-h2. Context
-
-The issue aims to improve the efficiency of package pickups by providing clear weight categories. This will assist riders in selecting the right vehicle for different package sizes.
-
-h2. Acceptance criteria
-
-* A comprehensive list of weight categories for packages must be created.
-* The list should be easily accessible to riders.
-* The weight categories should help in determining the appropriate vehicle type for pickup.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000t0:,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:57 AM
-Map view functionality ,QUIC-13,10172,Task,Done,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:20 AM,11/Aug/25 10:56 AM,01/Jul/25 11:21 AM,,,0,"h2. Summary
-
-The issue involves implementing a map view functionality. This feature will allow users to see delivery and pickup locations on a map.
-
-h2. Context
-
-The background of this issue is to enhance user experience by providing a visual representation of delivery and pickup locations.
-
-h2. Acceptance criteria
-
-* Users can view delivery locations on the map.
-* Users can view pickup locations on the map.
-
-h2. Other information
-
-N/A",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i000sx:,QUIC Sprint 1,,,,,,,,10132,QUIC-3,Instant Delivery Request,In Progress,11/Aug/25 10:56 AM
-Select Pickup location,QUIC-12,10170,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:20 AM,13/Jun/25 9:20 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0004n:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:20 AM
-Type Pickup location,QUIC-11,10168,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:19 AM,13/Jun/25 9:19 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0004f:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:19 AM
-Create instant delivery request fields,QUIC-10,10166,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,13/Jun/25 9:18 AM,19/Jun/25 9:46 AM,,,,0,"h2. Summary
-
-Create fields for accessing the instant delivery interface. This includes the pick-up and delivery fields.
-
-h2. Context
-
-The issue involves setting up necessary fields for the instant delivery feature.
-
-h2. Acceptance criteria
-
-* Create pick-up fields.
-* Create delivery fields.",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00047:,,,,,,,,,10132,QUIC-3,Instant Delivery Request,To Do,13/Jun/25 9:18 AM
-Login to access account,QUIC-9,10138,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 9:03 AM,12/Jun/25 9:07 AM,,,,0,"As a user, I want to log securely log in to my quickfleet account so that I can continue making delivery requests.
-
-*Acceptance Criteria*
-
-* User can securely log in to the account using the registered phone number
-* User received an OTP code after providing phone number
-* User phone number must match registered phone number
-* User can access account after providing OTP PIN
-* User remains logged in to their account unless they log out",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0003z:,,,,,,,,,,,,To Do,12/Jun/25 9:03 AM
-OTP verification,QUIC-8,10137,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:54 AM,12/Jun/25 9:02 AM,,,,0,"As a user, I want to receive and input an OTP PIN during sign up so that I can verify my phone number.
-
-*Acceptance Criteria*
-
-* User receives OTP PIN after inputting their phone number
-* OTP PIN is sent directly to the user phone number
-* User is prompted to input OTP PIN in the input field
-* User can input OTP PIN during sign-up after receiving code
-* User can click continue button after providing code for verification
-* User is verified after providing OTP PIN
-* User can request resend if OTP PIN is not sent",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0003r:,,,,,,,,,,,,To Do,12/Jun/25 8:54 AM
-Enables the user to make payment for all delivery requests,QUIC-7,10136,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:11 AM,12/Jun/25 8:11 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0003j:,,,,,,,,,,,,To Do,12/Jun/25 8:11 AM
-Customer Account Profile,QUIC-6,10135,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:10 AM,01/Jul/25 11:00 AM,01/Jul/25 10:59 AM,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0003b:,,,,,,,,,,,,To Do,12/Jun/25 8:10 AM
-Allows user to access delivery request feature and order history via the homepage,QUIC-5,10134,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:09 AM,12/Jun/25 8:09 AM,,,,0,,,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00033:,,,,,,,,,,,,To Do,12/Jun/25 8:09 AM
-Schedule Delivery Request,QUIC-4,10133,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:06 AM,12/Jun/25 9:33 AM,,,,0,"Provides the user with the ability to schedule delivery through the customer app.
-
-We want the user to be able to make an instant delivery request via the customer app. 
-
-This request allows user to request package pickup and delivery within the required time. 
-
-*Product Requirement*
-
-* User can initiate instant delivery request.
-* User can type and select pick-up location
-* User can select delivery location
-* User can select delivery location via map 
-* User can select from a list of automatically suggested pickup locations
-* User can select from a list of automatically suggested delivery locations
-* User can specify package weight details (Small, Medium, Large)
-* User can describe package details from a list of categories
-* User can describe the package in a description field
-* User provides sender details (Name & Phone No)
-* User provides receiver details (Name & Phone No)
-* User can select vehicle type (Bike, Car, Van, Truck)
-* User can choose delivery type
-* User can select payment method and type
-* User can search for a rider
-* User is matched with a rider after searching
-* User can see rider details
-* User can see estimated rider arrival details
-* User can chat with the rider after being matched
-* User can share pickup code with rider
-* User can share ride details
-* System should calculate the estimated delivery fare
-* System shows available driver/truck types
-* User confirms and submits the request
-* User can cancel delivery request
-
-
-
-*Design Requirement*
-
-*Engineering Requirement*",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},green,0|i0002v:,,,,,,,,,,,,To Do,12/Jun/25 8:06 AM
-Instant Delivery Request,QUIC-3,10132,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,12/Jun/25 8:01 AM,24/Jun/25 9:10 AM,,,,0,"Provides the user with the ability to request instant package pickup through the customer app.
-
-We want the user to be able to make an instant delivery request via the customer app. 
-
-This request allows user to request package pickup and delivery within the required time. 
-
-*Product Requirement*
-
-* User can initiate instant delivery request.
-* User can type and select pick-up location
-* User can select delivery location
-* User can select delivery location via map 
-* User can select from a list of automatically suggested pickup locations
-* User can select from a list of automatically suggested delivery locations
-* User can specify package weight details (Small, Medium, Large)
-* User can describe package details from a list of categories
-* User can describe the package in a description field
-* User provides sender details (Name & Phone No)
-* User provides receiver details (Name & Phone No)
-* User can select vehicle type (Bike, Car, Van, Truck)
-* User can choose delivery type
-* User can select payment method and type
-* User can search for a rider
-* User is matched with a rider after searching
-* User can see rider details
-* User can see estimated rider arrival details
-* User can chat with the rider after being matched
-* User can share pickup code with rider
-* User can share ride details
-* System should calculate the estimated delivery fare
-* System shows available driver/truck types
-* User confirms and submits the request
-* User can cancel delivery request
-
-
-
-*Design Requirement*
-
-*Engineering Requirement*",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i0002n:,,,,648c4d1c-d8e0-49f8-84d6-25bf3547db4a,Dev Team,,,,,,,To Do,12/Jun/25 8:01 AM
- User Authentication & Login,QUIC-2,10101,Epic,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,11/Jun/25 10:05 AM,12/Jun/25 8:46 AM,01/Jul/25 12:19 PM,,,0,Allows users to register their details before sending packages and requesting deliveries on the app.,,,,,,,,,,,,,,,,{},purple,0|i0002f:,,,,648c4d1c-d8e0-49f8-84d6-25bf3547db4a,Dev Team,,,,,,,To Do,11/Jun/25 10:05 AM
-Sign up with phone number,QUIC-1,10100,Task,To Do,QUIC,QuickFleet,software,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,Medium,,,,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,Odenbridge Technologies,712020:08cab4df-fe21-466a-9645-f20eaeb11349,11/Jun/25 9:50 AM,12/Jun/25 8:54 AM,,,,0,"_As a user, I want to sign up with my phone number so that I can link my number to my Quickfleet account._
-
-*Acceptance Criteria:*
-
-* User provides a valid phone number to sign up
-* User phone number should be registered with a Nigerian phone service provider.
-* User phone number can receive messages
-* User phone number must be 11 digits
-* Nigerian country code is provided along side phone number",,Odenbridge Technologies,,,712020:08cab4df-fe21-466a-9645-f20eaeb11349,,,,,,,,,,,{},,0|i00027:,,,,,,,,,,,,To Do,11/Jun/25 9:50 AM
+[product_backlog.html](https://github.com/user-attachments/files/22944304/product_backlog.html)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product Backlog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        table {
+            border-collapse: collapse;
+            margin: 0 auto;
+            width: 90%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Product Backlog</h1>
+    <table class="dataframe table table-striped">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Summary</th>
+      <th>Issue key</th>
+      <th>Issue id</th>
+      <th>Issue Type</th>
+      <th>Status</th>
+      <th>Project key</th>
+      <th>Project name</th>
+      <th>Project type</th>
+      <th>Project lead</th>
+      <th>Project lead id</th>
+      <th>Project description</th>
+      <th>Priority</th>
+      <th>Resolution</th>
+      <th>Assignee</th>
+      <th>Assignee Id</th>
+      <th>Reporter</th>
+      <th>Reporter Id</th>
+      <th>Creator</th>
+      <th>Creator Id</th>
+      <th>Created</th>
+      <th>Updated</th>
+      <th>Last Viewed</th>
+      <th>Resolved</th>
+      <th>Due date</th>
+      <th>Votes</th>
+      <th>Description</th>
+      <th>Environment</th>
+      <th>Watchers</th>
+      <th>Watchers.1</th>
+      <th>Watchers.2</th>
+      <th>Watchers Id</th>
+      <th>Watchers Id.1</th>
+      <th>Watchers Id.2</th>
+      <th>Original estimate</th>
+      <th>Remaining Estimate</th>
+      <th>Time Spent</th>
+      <th>Work Ratio</th>
+      <th>Σ Original Estimate</th>
+      <th>Σ Remaining Estimate</th>
+      <th>Σ Time Spent</th>
+      <th>Security Level</th>
+      <th>Custom field (Development)</th>
+      <th>Custom field (Issue color)</th>
+      <th>Custom field (Rank)</th>
+      <th>Sprint</th>
+      <th>Custom field (Start date)</th>
+      <th>Custom field (Story point estimate)</th>
+      <th>Team Id</th>
+      <th>Team Name</th>
+      <th>Custom field (Vulnerability)</th>
+      <th>Comment</th>
+      <th>Comment.1</th>
+      <th>Parent</th>
+      <th>Parent key</th>
+      <th>Parent summary</th>
+      <th>Status Category</th>
+      <th>Status Category Changed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Driver Registration</td>
+      <td>QUIC-155</td>
+      <td>10561</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>11/Aug/25 11:22 AM</td>
+      <td>11/Aug/25 11:24 AM</td>
+      <td>11/Aug/25 3:27 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>*User Story*\n\n_As a driver, I want to sign up and log in to the App quickly, so I can start receiving delivery requests_</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000zz:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>11/Aug/25 11:22 AM</td>
+    </tr>
+    <tr>
+      <td>Test mobile calling feature</td>
+      <td>QUIC-154</td>
+      <td>10553</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Olawunmi Sanusi</td>
+      <td>70121:180c0b9b-81d1-47a5-b4e3-a93e04a2be29</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 12:14 PM</td>
+      <td>11/Aug/25 11:05 AM</td>
+      <td>03/Jul/25 9:50 PM</td>
+      <td>NaN</td>
+      <td>14/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a developer, I want to test the mobile calling feature to ensure it meets the acceptance criteria and functions correctly.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000zn:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10182.0</td>
+      <td>QUIC-18</td>
+      <td>Mobile calling feature</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:05 AM</td>
+    </tr>
+    <tr>
+      <td>Integrate call feature with user interface</td>
+      <td>QUIC-153</td>
+      <td>10551</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 12:13 PM</td>
+      <td>11/Aug/25 11:05 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>13/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a user, I want to have a seamless interface to initiate calls to the driver, so that I can easily verify their location.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000zr:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10182.0</td>
+      <td>QUIC-18</td>
+      <td>Mobile calling feature</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:05 AM</td>
+    </tr>
+    <tr>
+      <td>Implement call initiation feature</td>
+      <td>QUIC-152</td>
+      <td>10549</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 12:10 PM</td>
+      <td>11/Aug/25 11:05 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>13/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a user, I would like to initiate a call to the driver to confirm their location.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000zj:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10182.0</td>
+      <td>QUIC-18</td>
+      <td>Mobile calling feature</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:05 AM</td>
+    </tr>
+    <tr>
+      <td>User Verification Process for Rider Details</td>
+      <td>QUIC-151</td>
+      <td>10547</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 12:02 PM</td>
+      <td>11/Aug/25 11:05 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>13/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Create a process that allows users to verify rider details by sharing a unique 4-digit code with the rider. This process should encompass all necessary user interactions and confirmations within the app to ensure a seamless experience.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000yt:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10180.0</td>
+      <td>QUIC-17</td>
+      <td>Rider details</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:05 AM</td>
+    </tr>
+    <tr>
+      <td>Test Rider Details Feature</td>
+      <td>QUIC-150</td>
+      <td>10545</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Olawunmi Sanusi</td>
+      <td>70121:180c0b9b-81d1-47a5-b4e3-a93e04a2be29</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 12:00 PM</td>
+      <td>11/Aug/25 11:05 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>13/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Conduct thorough testing of the rider details feature to ensure it meets all acceptance criteria and functions correctly across different devices and scenarios.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000yr:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10180.0</td>
+      <td>QUIC-17</td>
+      <td>Rider details</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:05 AM</td>
+    </tr>
+    <tr>
+      <td>Integrate Rider Details with User Interface</td>
+      <td>QUIC-149</td>
+      <td>10543</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:59 AM</td>
+      <td>11/Aug/25 11:05 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>12/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Integrate the rider details API with the user interface, ensuring that the information is displayed correctly and updates in real-time as needed.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000yv:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10180.0</td>
+      <td>QUIC-17</td>
+      <td>Rider details</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:05 AM</td>
+    </tr>
+    <tr>
+      <td>Implement Rider Details API</td>
+      <td>QUIC-148</td>
+      <td>10541</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:58 AM</td>
+      <td>11/Aug/25 11:05 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>11/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop the backend API to fetch and provide rider details to the frontend. Ensure the API is secure and can handle multiple requests efficiently.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000yn:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10180.0</td>
+      <td>QUIC-17</td>
+      <td>Rider details</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:05 AM</td>
+    </tr>
+    <tr>
+      <td>Document Pricing Endpoint API</td>
+      <td>QUIC-147</td>
+      <td>10539</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:53 AM</td>
+      <td>11/Aug/25 11:05 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>11/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Create comprehensive documentation for the pricing endpoint API, detailing its usage, parameters, and response formats for future reference and development.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000xt:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10178.0</td>
+      <td>QUIC-16</td>
+      <td>Pricing endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:05 AM</td>
+    </tr>
+    <tr>
+      <td>Test Pricing Endpoint Functionality</td>
+      <td>QUIC-146</td>
+      <td>10537</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Olawunmi Sanusi</td>
+      <td>70121:180c0b9b-81d1-47a5-b4e3-a93e04a2be29</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:52 AM</td>
+      <td>11/Aug/25 11:05 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>11/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Conduct thorough testing of the pricing endpoint to ensure it accurately returns the delivery price and handles edge cases effectively.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000xv:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10178.0</td>
+      <td>QUIC-16</td>
+      <td>Pricing endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:05 AM</td>
+    </tr>
+    <tr>
+      <td>Integrate Pricing Endpoint with User Interface</td>
+      <td>QUIC-145</td>
+      <td>10535</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:51 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Integrate the newly created pricing endpoint with the customer app interface, ensuring users can easily access and view the delivery price.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000xz:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10178.0</td>
+      <td>QUIC-16</td>
+      <td>Pricing endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:04 AM</td>
+    </tr>
+    <tr>
+      <td>Implement Pricing Endpoint Logic</td>
+      <td>QUIC-144</td>
+      <td>10533</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:49 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop the backend logic for the pricing endpoint to calculate and return the delivery price based on various factors such as distance, package weight, and delivery type.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000xr:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10178.0</td>
+      <td>QUIC-16</td>
+      <td>Pricing endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:04 AM</td>
+    </tr>
+    <tr>
+      <td>Design Pricing Endpoint API</td>
+      <td>QUIC-143</td>
+      <td>10531</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:48 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>08/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>h2. Summary\n\nDesign the API for the pricing endpoint. This API will return the delivery price to users. It needs to be secure and scalable.\n\nh2. Context\n\nThe pricing endpoint is essential for providing users with accurate delivery pricing. It is important that the API adheres to best practices.\n\nh2. Acceptance criteria\n\n* The API must return the delivery price to users.\n* The API should be secure.\n* The API must be scalable.\n* The API should follow best practices.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000xj:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10178.0</td>
+      <td>QUIC-16</td>
+      <td>Pricing endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:04 AM</td>
+    </tr>
+    <tr>
+      <td>Test Vehicle Type Interface</td>
+      <td>QUIC-142</td>
+      <td>10529</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:44 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>As a QA engineer, I want to test the vehicle type interface to ensure it displays the correct list of vehicles and allows selection based on package, so that customers have a seamless experience.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000x5:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10176.0</td>
+      <td>QUIC-15</td>
+      <td>Vehicle type endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:04 AM</td>
+    </tr>
+    <tr>
+      <td>Implement Vehicle Selection Logic</td>
+      <td>QUIC-141</td>
+      <td>10527</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:43 AM</td>
+      <td>10/Jul/25 8:17 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>h2. Summary\n\nImplement the logic for vehicle selection. This will enable customers to choose a vehicle from a list for their delivery requests.\n\nh2. Context\n\nThis feature is aimed at improving the customer experience during the delivery request process. It allows customers to select their preferred vehicle.\n\nh2. Acceptance criteria\n\n* Customers can view a list of available vehicles.\n* Customers can select a vehicle from the list.\n* The selected vehicle is confirmed for the delivery request.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000x3:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10176.0</td>
+      <td>QUIC-15</td>
+      <td>Vehicle type endpoint</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:17 PM</td>
+    </tr>
+    <tr>
+      <td>Integrate Vehicle Selection with Package Options</td>
+      <td>QUIC-140</td>
+      <td>10525</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:42 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>h2. Summary\n\nIntegrate the vehicle selection feature with package options. This will allow customers to choose a vehicle that fits their package requirements.\n\nh2. Context\n\nThe integration aims to enhance the customer experience by providing a seamless way to select vehicles based on their chosen packages.\n\nh2. Acceptance criteria\n\n* Vehicle selection must be linked to package options.\n* Customers should see only the vehicles that match their selected package.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000x7:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10176.0</td>
+      <td>QUIC-15</td>
+      <td>Vehicle type endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:04 AM</td>
+    </tr>
+    <tr>
+      <td>Develop Backend API for Vehicle List</td>
+      <td>QUIC-139</td>
+      <td>10523</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:40 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>NaN</td>
+      <td>07/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>h2. Summary\n\nDevelop a backend API to provide a list of available vehicles for the frontend interface.\n\nh2. Context\n\nThis API will allow the frontend to display vehicle information to customers.\n\nh2. Acceptance criteria\n\n* Create a backend API.\n* The API should return a list of available vehicles.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000wn:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10176.0</td>
+      <td>QUIC-15</td>
+      <td>Vehicle type endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:04 AM</td>
+    </tr>
+    <tr>
+      <td>Test weight category functionality</td>
+      <td>QUIC-138</td>
+      <td>10521</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:36 AM</td>
+      <td>11/Aug/25 11:06 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>09/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a QA engineer, I want to test the weight category functionality in the rider app, so that I can ensure it works correctly and meets the acceptance criteria.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000wf:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10174.0</td>
+      <td>QUIC-14</td>
+      <td>Package weight category</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:06 AM</td>
+    </tr>
+    <tr>
+      <td>Integrate weight categories into rider app</td>
+      <td>QUIC-137</td>
+      <td>10519</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:35 AM</td>
+      <td>11/Aug/25 11:06 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>08/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a developer, I want to integrate the defined weight categories into the rider app, so that users can use them to determine the appropriate vehicle type for package pickup.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000w7:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10174.0</td>
+      <td>QUIC-14</td>
+      <td>Package weight category</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:06 AM</td>
+    </tr>
+    <tr>
+      <td>Test map view functionality</td>
+      <td>QUIC-136</td>
+      <td>10517</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:30 AM</td>
+      <td>11/Aug/25 11:02 AM</td>
+      <td>11/Aug/25 11:02 AM</td>
+      <td>NaN</td>
+      <td>07/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a tester, I want to test the map view functionality, so that I can ensure it meets the acceptance criteria and works as expected.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000vz:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10172.0</td>
+      <td>QUIC-13</td>
+      <td>Map view functionality</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:02 AM</td>
+    </tr>
+    <tr>
+      <td>Develop user interface for map view</td>
+      <td>QUIC-135</td>
+      <td>10515</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:29 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>As a user, I want to see a user-friendly interface for the map view, so that i can easily interact with the map to view locations.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000w1:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10172.0</td>
+      <td>QUIC-13</td>
+      <td>Map view functionality</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:15 PM</td>
+    </tr>
+    <tr>
+      <td>Implement location markers on the map</td>
+      <td>QUIC-134</td>
+      <td>10513</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:28 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>07/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a user, I want to see markers for delivery and pickup locations on the map, so that I can easily identify them.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000w4:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>3.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10172.0</td>
+      <td>QUIC-13</td>
+      <td>Map view functionality</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:15 PM</td>
+    </tr>
+    <tr>
+      <td>Integrate map API for location rendering</td>
+      <td>QUIC-133</td>
+      <td>10511</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:27 AM</td>
+      <td>11/Aug/25 11:01 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>07/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a user, I want to see a map Summary\n\nIntegrate a map API to render delivery and pickup locations on the map for users.\n\nh2. Context\n\nThe integration of a map API will enhance user experience by providing visual representation of delivery and pickup locations.\n\nh2. Acceptance criteria\n\n* A map API must be integrated.\n* Delivery locations should be clearly marked on the map.\n* Pickup locations should also be clearly marked on the map.\n\nh2. Other information\n\nN/A, so that I can render delivery and pickup locations on the map.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000vb:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10172.0</td>
+      <td>QUIC-13</td>
+      <td>Map view functionality</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:01 AM</td>
+    </tr>
+    <tr>
+      <td>Implement map view for pickup locations</td>
+      <td>QUIC-132</td>
+      <td>10509</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:25 AM</td>
+      <td>11/Aug/25 11:04 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>04/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a user, I want to view pickup locations on a map, so that I can visually confirm the pickup point.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000w5:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10172.0</td>
+      <td>QUIC-13</td>
+      <td>Map view functionality</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:15 PM</td>
+    </tr>
+    <tr>
+      <td>Implement map view for delivery locations</td>
+      <td>QUIC-131</td>
+      <td>10507</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:24 AM</td>
+      <td>11/Aug/25 11:03 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>04/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>As a user, I want to view delivery locations on a map, so that I can visually confirm the delivery destination.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000w3:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10172.0</td>
+      <td>QUIC-13</td>
+      <td>Map view functionality</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:15 PM</td>
+    </tr>
+    <tr>
+      <td>Update User Account with Verified Email</td>
+      <td>QUIC-130</td>
+      <td>10505</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:16 AM</td>
+      <td>11/Aug/25 11:01 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>02/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Once the email is verified, update the user's account to reflect the verified email address.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000un:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10487.0</td>
+      <td>QUIC-121</td>
+      <td>Add Email address functionality</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:01 AM</td>
+    </tr>
+    <tr>
+      <td>Verify Confirmation Code</td>
+      <td>QUIC-129</td>
+      <td>10503</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:15 AM</td>
+      <td>10/Jul/25 8:13 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>02/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Implement the process for users to enter the confirmation code received via email to verify their email address.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000uf:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10487.0</td>
+      <td>QUIC-121</td>
+      <td>Add Email address functionality</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:13 PM</td>
+    </tr>
+    <tr>
+      <td>Send Confirmation Code to Email</td>
+      <td>QUIC-128</td>
+      <td>10501</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:15 AM</td>
+      <td>11/Aug/25 11:01 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>02/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop the functionality to send a confirmation code to the user's email address after it is added to their account.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000u7:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10487.0</td>
+      <td>QUIC-121</td>
+      <td>Add Email address functionality</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:01 AM</td>
+    </tr>
+    <tr>
+      <td>Validate Email Address Format</td>
+      <td>QUIC-127</td>
+      <td>10499</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:14 AM</td>
+      <td>10/Jul/25 8:13 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>02/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Implement validation logic to ensure the email address entered by the user is in the correct format.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000tz:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10487.0</td>
+      <td>QUIC-121</td>
+      <td>Add Email address functionality</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:13 PM</td>
+    </tr>
+    <tr>
+      <td>Develop Account Deletion API Endpoint</td>
+      <td>QUIC-126</td>
+      <td>10497</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:08 AM</td>
+      <td>04/Jul/25 3:27 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Create an API endpoint that facilitates the account deletion process. Ensure it is secure and handles requests efficiently.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000tr:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10485.0</td>
+      <td>QUIC-120</td>
+      <td>Delete Account functionality</td>
+      <td>In Progress</td>
+      <td>04/Jul/25 3:27 AM</td>
+    </tr>
+    <tr>
+      <td>Test Account Deletion Functionality</td>
+      <td>QUIC-125</td>
+      <td>10495</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:06 AM</td>
+      <td>11/Aug/25 11:00 AM</td>
+      <td>11/Aug/25 10:59 AM</td>
+      <td>NaN</td>
+      <td>04/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Conduct thorough testing of the account deletion feature to ensure it works as expected. This includes testing the user interface, backend logic, and API endpoint.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000tj:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10485.0</td>
+      <td>QUIC-120</td>
+      <td>Delete Account functionality</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 11:00 AM</td>
+    </tr>
+    <tr>
+      <td>Create Confirmation Dialog for Account Deletion</td>
+      <td>QUIC-124</td>
+      <td>10493</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:06 AM</td>
+      <td>07/Jul/25 12:09 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>03/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Implement a confirmation dialog that appears when a user initiates the account deletion process. The dialog should clearly inform the user of the consequences and require confirmation before proceeding.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000tb:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10485.0</td>
+      <td>QUIC-120</td>
+      <td>Delete Account functionality</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:09 PM</td>
+    </tr>
+    <tr>
+      <td>Implement Backend Logic for Account Deletion</td>
+      <td>QUIC-123</td>
+      <td>10491</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 11:04 AM</td>
+      <td>03/Jul/25 10:17 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>02/Jul/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop the backend functionality to handle account deletion requests. This includes removing user data from the database and ensuring all related data is properly managed.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000t3:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10485.0</td>
+      <td>QUIC-120</td>
+      <td>Delete Account functionality</td>
+      <td>In Progress</td>
+      <td>03/Jul/25 10:17 PM</td>
+    </tr>
+    <tr>
+      <td>Add Email address functionality</td>
+      <td>QUIC-121</td>
+      <td>10487</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:57 AM</td>
+      <td>11/Aug/25 10:55 AM</td>
+      <td>01/Jul/25 11:08 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nThis issue is about implementing a feature that allows users to add an email address to their account.\n\nh2. Context\n\nCurrently, users do not have the option to add an email address to their accounts. This functionality is necessary for account verification and communication purposes.\n\nh2. Acceptance criteria\n\n* Users must be able to add an email address to their account.\n* The email address should be validated for correct format.\n* Users should receive a confirmation code after adding their email address.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000sr:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10135.0</td>
+      <td>QUIC-6</td>
+      <td>Customer Account Profile</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:55 AM</td>
+    </tr>
+    <tr>
+      <td>Delete Account functionality</td>
+      <td>QUIC-120</td>
+      <td>10485</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:56 AM</td>
+      <td>11/Aug/25 10:55 AM</td>
+      <td>01/Jul/25 11:01 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nThis issue is about implementing a feature that allows users to delete their accounts.\n\nh2. Context\n\nCurrently, users do not have the option to delete their accounts. This functionality is necessary for user autonomy and data management.\n\nh2. Acceptance criteria\n\n* Users must be able to delete their accounts through the application.\n* The deletion process should be straightforward and user-friendly.\n* Confirmation should be required before finalizing the account deletion.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000sf:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10135.0</td>
+      <td>QUIC-6</td>
+      <td>Customer Account Profile</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:55 AM</td>
+    </tr>
+    <tr>
+      <td>Implement Sign Up Endpoint Logic</td>
+      <td>QUIC-119</td>
+      <td>10483</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:53 AM</td>
+      <td>03/Jul/25 10:17 PM</td>
+      <td>01/Jul/25 10:55 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop the backend logic for the sign up endpoint, ensuring it handles user data correctly and securely.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000s7:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10465.0</td>
+      <td>QUIC-110</td>
+      <td>Sign up Endpoint</td>
+      <td>In Progress</td>
+      <td>03/Jul/25 10:17 PM</td>
+    </tr>
+    <tr>
+      <td>Integrate Sign Up Endpoint with Database</td>
+      <td>QUIC-118</td>
+      <td>10481</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:53 AM</td>
+      <td>10/Jul/25 8:12 PM</td>
+      <td>11/Aug/25 10:50 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Connect the sign up endpoint to the database to store user registration details securely.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000rz:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10465.0</td>
+      <td>QUIC-110</td>
+      <td>Sign up Endpoint</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:12 PM</td>
+    </tr>
+    <tr>
+      <td>Write Unit Tests for Sign Up Endpoint</td>
+      <td>QUIC-117</td>
+      <td>10480</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:53 AM</td>
+      <td>11/Aug/25 10:49 AM</td>
+      <td>11/Aug/25 10:48 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Create unit tests to verify the functionality and reliability of the sign up endpoint logic.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000rr:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10465.0</td>
+      <td>QUIC-110</td>
+      <td>Sign up Endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:49 AM</td>
+    </tr>
+    <tr>
+      <td>Document Sign In API Endpoint</td>
+      <td>QUIC-116</td>
+      <td>10477</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:47 AM</td>
+      <td>03/Jul/25 10:14 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Create documentation for the sign in API endpoint, detailing how to use it and any necessary parameters.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000rj:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10463.0</td>
+      <td>QUIC-109</td>
+      <td>Sign in Endpoint</td>
+      <td>In Progress</td>
+      <td>03/Jul/25 10:14 PM</td>
+    </tr>
+    <tr>
+      <td>Integrate Sign In with Database</td>
+      <td>QUIC-115</td>
+      <td>10473</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:47 AM</td>
+      <td>10/Jul/25 8:13 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Connect the sign in functionality with the database to verify user credentials and retrieve user data.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000rb:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10463.0</td>
+      <td>QUIC-109</td>
+      <td>Sign in Endpoint</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:13 PM</td>
+    </tr>
+    <tr>
+      <td>Design Sign In API Endpoint</td>
+      <td>QUIC-113</td>
+      <td>10471</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:47 AM</td>
+      <td>11/Aug/25 10:59 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Design the API endpoint for user sign in, including request and response structures.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000r3:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10463.0</td>
+      <td>QUIC-109</td>
+      <td>Sign in Endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:59 AM</td>
+    </tr>
+    <tr>
+      <td>Write Unit Tests for Sign In Endpoint</td>
+      <td>QUIC-112</td>
+      <td>10475</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:47 AM</td>
+      <td>11/Aug/25 10:58 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop unit tests to ensure the sign in endpoint functions correctly and handles edge cases.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000qn:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10463.0</td>
+      <td>QUIC-109</td>
+      <td>Sign in Endpoint</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:58 AM</td>
+    </tr>
+    <tr>
+      <td>Create Sign In Error Handling</td>
+      <td>QUIC-111</td>
+      <td>10474</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:47 AM</td>
+      <td>10/Jul/25 8:11 PM</td>
+      <td>07/Jul/25 9:46 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Implement error handling for the sign in process, including incorrect password and user not found scenarios.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000qf:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10463.0</td>
+      <td>QUIC-109</td>
+      <td>Sign in Endpoint</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:11 PM</td>
+    </tr>
+    <tr>
+      <td>Implement Sign In Logic</td>
+      <td>QUIC-114</td>
+      <td>10472</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:47 AM</td>
+      <td>03/Jul/25 10:14 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop the backend logic for authenticating users during sign in, including Phone number verification and session management.</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>Odenbridge Technologies</td>
+      <td>Oladipupo Akindunbi</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>635fc38f7d4645af4f0331ee</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000qv:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>02/Jul/25 12:58 AM;712020:15e3613c-e48a-436e-be9f-95fcc39a42c4;password keh ?? [~accountid:635fc38f7d4645af4f0331ee] [~accountid:61fd566649fc43006952e766] or did something change ?</td>
+      <td>02/Jul/25 9:16 AM;635fc38f7d4645af4f0331ee;[~accountid:712020:15e3613c-e48a-436e-be9f-95fcc39a42c4] It’s a mistake. Corrected it. THANK you for pointing it out.</td>
+      <td>10463.0</td>
+      <td>QUIC-109</td>
+      <td>Sign in Endpoint</td>
+      <td>In Progress</td>
+      <td>03/Jul/25 10:14 PM</td>
+    </tr>
+    <tr>
+      <td>Sign up Endpoint</td>
+      <td>QUIC-110</td>
+      <td>10465</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:11 AM</td>
+      <td>04/Jul/25 2:31 PM</td>
+      <td>11/Aug/25 10:49 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Create sign up endpoint</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000sc:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10101.0</td>
+      <td>QUIC-2</td>
+      <td>User Authentication &amp; Login</td>
+      <td>In Progress</td>
+      <td>04/Jul/25 3:26 AM</td>
+    </tr>
+    <tr>
+      <td>Sign in Endpoint</td>
+      <td>QUIC-109</td>
+      <td>10463</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>01/Jul/25 10:11 AM</td>
+      <td>04/Jul/25 2:30 PM</td>
+      <td>04/Jul/25 2:21 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Create sign in endpoint</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000sd:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10101.0</td>
+      <td>QUIC-2</td>
+      <td>User Authentication &amp; Login</td>
+      <td>In Progress</td>
+      <td>04/Jul/25 3:27 AM</td>
+    </tr>
+    <tr>
+      <td>Integrate location autocomplete for pickup location</td>
+      <td>QUIC-108</td>
+      <td>10438</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>24/Jun/25 9:14 AM</td>
+      <td>24/Jun/25 9:14 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Integrate a location autocomplete service to suggest pickup locations as the user types. This should enhance user experience by providing quick and accurate location suggestions.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000pr:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10168.0</td>
+      <td>QUIC-11</td>
+      <td>Type Pickup location</td>
+      <td>To Do</td>
+      <td>24/Jun/25 9:14 AM</td>
+    </tr>
+    <tr>
+      <td>Implement text input for pickup location</td>
+      <td>QUIC-107</td>
+      <td>10436</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>24/Jun/25 9:14 AM</td>
+      <td>24/Jun/25 9:14 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop the feature that allows users to type in their desired pickup location in the customer app. Ensure the input field is user-friendly and supports various address formats.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000pj:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10168.0</td>
+      <td>QUIC-11</td>
+      <td>Type Pickup location</td>
+      <td>To Do</td>
+      <td>24/Jun/25 9:14 AM</td>
+    </tr>
+    <tr>
+      <td>Validate typed pickup location</td>
+      <td>QUIC-106</td>
+      <td>10435</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>24/Jun/25 9:14 AM</td>
+      <td>24/Jun/25 9:15 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nImplement validation logic for the typed pickup location. Ensure it is valid and serviceable.\n\nh2. Context\n\nThe issue involves checking the typed pickup location against a list of supported areas. Feedback should be provided to the user if the location is invalid.\n\nh2. Acceptance criteria\n\n* Validate the typed pickup location.\n* Check against a list of supported areas.\n* Provide user feedback for invalid locations.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000pb:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10168.0</td>
+      <td>QUIC-11</td>
+      <td>Type Pickup location</td>
+      <td>To Do</td>
+      <td>24/Jun/25 9:14 AM</td>
+    </tr>
+    <tr>
+      <td>Create delivery location field</td>
+      <td>QUIC-105</td>
+      <td>10432</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>24/Jun/25 9:08 AM</td>
+      <td>10/Jul/25 8:10 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nCreate a field for users to input and select their delivery location. This will include a map integration for selecting locations and a list of suggested locations.\n\nh2. Context\n\nThe goal is to enhance user experience by allowing easy selection of delivery locations.\n\nh2. Acceptance criteria\n\n* Users can type in their delivery location.\n* Users can select their delivery location from a map.\n* A list of automatically suggested locations is provided.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000p3:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10166.0</td>
+      <td>QUIC-10</td>
+      <td>Create instant delivery request fields</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:10 PM</td>
+    </tr>
+    <tr>
+      <td>Create pick-up location field</td>
+      <td>QUIC-104</td>
+      <td>10430</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>24/Jun/25 9:02 AM</td>
+      <td>10/Jul/25 8:08 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>25/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>h2. Summary\n\nCreate a field for users to input and select their pick-up location. This will include a map integration for selecting locations and a list of suggested locations.\n\nh2. Context\n\nThe goal is to enhance user experience by allowing easy selection of pick-up locations.\n\nh2. Acceptance criteria\n\n* Users can type in their pick-up location.\n* Users can select their pick-up location from a map.\n* A list of automatically suggested locations is provided.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000ov:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10166.0</td>
+      <td>QUIC-10</td>
+      <td>Create instant delivery request fields</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:08 PM</td>
+    </tr>
+    <tr>
+      <td>Test Delivery Request Flow Trigger</td>
+      <td>QUIC-103</td>
+      <td>10419</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:33 AM</td>
+      <td>18/Jun/25 10:34 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Test the functionality of the 'Send a Package' CTA button to ensure it correctly opens the delivery request flow screen and directs to the pickup and delivery screen when tapped.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000on:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10350.0</td>
+      <td>QUIC-74</td>
+      <td>“Send a Package” CTA Button</td>
+      <td>To Do</td>
+      <td>18/Jun/25 10:33 AM</td>
+    </tr>
+    <tr>
+      <td>Implement 'Send a Package' CTA Button</td>
+      <td>QUIC-102</td>
+      <td>10420</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:33 AM</td>
+      <td>10/Jul/25 8:12 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop the 'Send a Package' CTA button on the dashboard. Ensure it is functional and appears after user authentication during onboarding.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000of:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10350.0</td>
+      <td>QUIC-74</td>
+      <td>“Send a Package” CTA Button</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:12 PM</td>
+    </tr>
+    <tr>
+      <td>Test 'Send a Package' CTA Button Visibility</td>
+      <td>QUIC-100</td>
+      <td>10416</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:33 AM</td>
+      <td>18/Jun/25 10:34 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Conduct tests to verify that the 'Send a Package' CTA button is visible after user authentication and during onboarding.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000o7:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10350.0</td>
+      <td>QUIC-74</td>
+      <td>“Send a Package” CTA Button</td>
+      <td>To Do</td>
+      <td>18/Jun/25 10:33 AM</td>
+    </tr>
+    <tr>
+      <td>Integrate CTA Button with Delivery Request Flow</td>
+      <td>QUIC-101</td>
+      <td>10415</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:33 AM</td>
+      <td>10/Jul/25 8:13 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Connect the 'Send a Package' CTA button to the delivery request flow. Ensure that tapping the button directs the user to the pickup and delivery screen.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000nz:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10350.0</td>
+      <td>QUIC-74</td>
+      <td>“Send a Package” CTA Button</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:13 PM</td>
+    </tr>
+    <tr>
+      <td>Implement Bottom Navigation Bar UI</td>
+      <td>QUIC-99</td>
+      <td>10412</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:28 AM</td>
+      <td>07/Jul/25 12:08 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Design and implement the UI for the bottom navigation bar with three icons: Home, Orders, and Account. Ensure the active screen is visually highlighted.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000nr:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10348.0</td>
+      <td>QUIC-73</td>
+      <td>Bottom Tab Navigation (Home, Orders, Account)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:08 PM</td>
+    </tr>
+    <tr>
+      <td>Ensure Bottom Navigation Bar Visibility</td>
+      <td>QUIC-97</td>
+      <td>10407</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:28 AM</td>
+      <td>07/Jul/25 12:08 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Ensure that the bottom navigation bar is always visible on the main app screens, regardless of the screen size or orientation.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000nj:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10348.0</td>
+      <td>QUIC-73</td>
+      <td>Bottom Tab Navigation (Home, Orders, Account)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:08 PM</td>
+    </tr>
+    <tr>
+      <td>Integrate Navigation Functionality for Account Tab</td>
+      <td>QUIC-98</td>
+      <td>10408</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:28 AM</td>
+      <td>07/Jul/25 12:06 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop the functionality to navigate to the profile, wallet, and support links when the Account tab is selected. Ensure the Account tab is highlighted when active.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000nb:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10348.0</td>
+      <td>QUIC-73</td>
+      <td>Bottom Tab Navigation (Home, Orders, Account)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:06 PM</td>
+    </tr>
+    <tr>
+      <td>Integrate Navigation Functionality for Orders Tab</td>
+      <td>QUIC-96</td>
+      <td>10410</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:28 AM</td>
+      <td>07/Jul/25 12:06 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop the functionality to navigate to the list of past and current deliveries when the Orders tab is selected. Ensure the Orders tab is highlighted when active.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000n3:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10348.0</td>
+      <td>QUIC-73</td>
+      <td>Bottom Tab Navigation (Home, Orders, Account)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:06 PM</td>
+    </tr>
+    <tr>
+      <td>Integrate Navigation Functionality for Home Tab</td>
+      <td>QUIC-95</td>
+      <td>10409</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:28 AM</td>
+      <td>07/Jul/25 12:06 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop the functionality to navigate to the dashboard when the Home tab is selected. Ensure the Home tab is highlighted when active.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000mv:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10348.0</td>
+      <td>QUIC-73</td>
+      <td>Bottom Tab Navigation (Home, Orders, Account)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:06 PM</td>
+    </tr>
+    <tr>
+      <td>Test Recent Orders Feature</td>
+      <td>QUIC-94</td>
+      <td>10402</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>18/Jun/25 10:27 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Check the recent orders feature to make sure it works well and meets all the requirements, so users have a good experience.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000mn:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10346.0</td>
+      <td>QUIC-72</td>
+      <td>Recent Orders / Order History</td>
+      <td>To Do</td>
+      <td>18/Jun/25 10:23 AM</td>
+    </tr>
+    <tr>
+      <td>Update Orders List Automatically on Backend</td>
+      <td>QUIC-93</td>
+      <td>10400</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>18/Jun/25 10:24 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Make sure the backend updates the list of recent orders after each delivery is done, so the app always gets the latest information.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000mf:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10346.0</td>
+      <td>QUIC-72</td>
+      <td>Recent Orders / Order History</td>
+      <td>To Do</td>
+      <td>18/Jun/25 10:23 AM</td>
+    </tr>
+    <tr>
+      <td>Create Order Details API on Backend</td>
+      <td>QUIC-92</td>
+      <td>10398</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>18/Jun/25 10:24 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Set up a backend service that gives detailed information about a specific order, so the app can show all the details to users.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000m7:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10346.0</td>
+      <td>QUIC-72</td>
+      <td>Recent Orders / Order History</td>
+      <td>To Do</td>
+      <td>18/Jun/25 10:23 AM</td>
+    </tr>
+    <tr>
+      <td>Create Recent Orders API on Backend</td>
+      <td>QUIC-91</td>
+      <td>10396</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>18/Jun/25 10:24 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Set up a backend service that gives the app the 3-5 most recent orders, so the app can show this to users.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000lz:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10346.0</td>
+      <td>QUIC-72</td>
+      <td>Recent Orders / Order History</td>
+      <td>To Do</td>
+      <td>18/Jun/25 10:23 AM</td>
+    </tr>
+    <tr>
+      <td>Create Order Details Page on Frontend</td>
+      <td>QUIC-89</td>
+      <td>10393</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>10/Jul/25 8:12 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Build a page that shows more details about an order when a user clicks on it, so they can see all the information they need.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000lr:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10346.0</td>
+      <td>QUIC-72</td>
+      <td>Recent Orders / Order History</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:12 PM</td>
+    </tr>
+    <tr>
+      <td>Design Empty State for Recent Orders</td>
+      <td>QUIC-90</td>
+      <td>10394</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Create a design for when there are no recent orders to show, so users know there are no deliveries yet.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000lj:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10346.0</td>
+      <td>QUIC-72</td>
+      <td>Recent Orders / Order History</td>
+      <td>To Do</td>
+      <td>18/Jun/25 10:23 AM</td>
+    </tr>
+    <tr>
+      <td>Update Orders List Automatically on Frontend</td>
+      <td>QUIC-86</td>
+      <td>10390</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>10/Jul/25 8:16 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Make sure the list of recent orders updates by itself on the app after each delivery is done, so users always see the latest information.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000lb:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10346.0</td>
+      <td>QUIC-72</td>
+      <td>Recent Orders / Order History</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:16 PM</td>
+    </tr>
+    <tr>
+      <td>Build Recent Orders List on Frontend</td>
+      <td>QUIC-88</td>
+      <td>10391</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>07/Jul/25 12:07 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Make a list on the app that shows the 3-5 most recent orders, so users can track their deliveries easily.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000l3:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10346.0</td>
+      <td>QUIC-72</td>
+      <td>Recent Orders / Order History</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:07 PM</td>
+    </tr>
+    <tr>
+      <td>Design Recent Orders Card Layout</td>
+      <td>QUIC-87</td>
+      <td>10392</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>18/Jun/25 10:23 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Create a card design for showing recent orders, so users can easily see and interact with their deliveries.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000kv:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10346.0</td>
+      <td>QUIC-72</td>
+      <td>Recent Orders / Order History</td>
+      <td>To Do</td>
+      <td>18/Jun/25 10:23 AM</td>
+    </tr>
+    <tr>
+      <td>Integrate Google Places API for Autocomplete</td>
+      <td>QUIC-85</td>
+      <td>10384</td>
+      <td>Subtask</td>
+      <td>In Progress</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:03 AM</td>
+      <td>10/Jul/25 8:17 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>On the frontend, integrate the Google Places API to provide location suggestions as users type in the pickup and delivery fields.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000kn:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10342.0</td>
+      <td>QUIC-70</td>
+      <td>Pickup &amp; Delivery Location Fields</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:17 PM</td>
+    </tr>
+    <tr>
+      <td>Validate Locations Against Service Area</td>
+      <td>QUIC-84</td>
+      <td>10383</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:03 AM</td>
+      <td>18/Jun/25 10:16 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop backend logic to validate that entered locations are within the service area. Return an error message if a location is outside the service area.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000kf:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10342.0</td>
+      <td>QUIC-70</td>
+      <td>Pickup &amp; Delivery Location Fields</td>
+      <td>To Do</td>
+      <td>18/Jun/25 10:03 AM</td>
+    </tr>
+    <tr>
+      <td>Develop Pickup and Delivery Input Fields</td>
+      <td>QUIC-83</td>
+      <td>10380</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 10:03 AM</td>
+      <td>07/Jul/25 12:05 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Create two input fields on the frontend for users to enter pickup and delivery addresses. Ensure the pickup field is required before the delivery field becomes active.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000k7:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10342.0</td>
+      <td>QUIC-70</td>
+      <td>Pickup &amp; Delivery Location Fields</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:05 PM</td>
+    </tr>
+    <tr>
+      <td>Setup Notification Data Retrieval (Backend)</td>
+      <td>QUIC-81</td>
+      <td>10376</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 9:38 AM</td>
+      <td>18/Jun/25 9:44 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Implement the backend service to retrieve notification data, including unread counts and notification details, to be displayed on the frontend.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000jz:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10330.0</td>
+      <td>QUIC-64</td>
+      <td>Notification Button</td>
+      <td>To Do</td>
+      <td>18/Jun/25 9:38 AM</td>
+    </tr>
+    <tr>
+      <td>Test Notification Feature (Backend)</td>
+      <td>QUIC-82</td>
+      <td>10378</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 9:38 AM</td>
+      <td>18/Jun/25 9:52 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Conduct thorough testing of the backend notification services to ensure data is correctly retrieved, stored, and updated according to the business logic.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000jr:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10330.0</td>
+      <td>QUIC-64</td>
+      <td>Notification Button</td>
+      <td>To Do</td>
+      <td>18/Jun/25 9:38 AM</td>
+    </tr>
+    <tr>
+      <td>Test Notification Feature (Frontend)</td>
+      <td>QUIC-80</td>
+      <td>10375</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 9:38 AM</td>
+      <td>18/Jun/25 9:52 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Conduct thorough testing of the frontend notification feature, including the icon, unread badge, and notification modal/screen, to ensure all acceptance criteria are met.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000jj:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10330.0</td>
+      <td>QUIC-64</td>
+      <td>Notification Button</td>
+      <td>To Do</td>
+      <td>18/Jun/25 9:38 AM</td>
+    </tr>
+    <tr>
+      <td>Implement Notification Icon on Dashboard (Frontend)</td>
+      <td>QUIC-79</td>
+      <td>10372</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 9:38 AM</td>
+      <td>07/Jul/25 12:05 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop and integrate the notification bell icon into the dashboard header. Ensure it is positioned correctly and is responsive across different devices.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000iv:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10330.0</td>
+      <td>QUIC-64</td>
+      <td>Notification Button</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:05 PM</td>
+    </tr>
+    <tr>
+      <td>Design Notification Icon (Frontend)</td>
+      <td>QUIC-78</td>
+      <td>10371</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 9:38 AM</td>
+      <td>07/Jul/25 12:05 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Create a design for the notification bell icon that will be placed at the top-right corner of the dashboard. Ensure it is visually consistent with the app's design language.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000jb:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10330.0</td>
+      <td>QUIC-64</td>
+      <td>Notification Button</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:05 PM</td>
+    </tr>
+    <tr>
+      <td>Create Notification Modal or Screen (Frontend)</td>
+      <td>QUIC-77</td>
+      <td>10368</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 9:38 AM</td>
+      <td>07/Jul/25 12:04 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop a modal or screen on the frontend that displays a list of notifications when the notification icon is tapped. Ensure the notifications are sorted with the latest first.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000in:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10330.0</td>
+      <td>QUIC-64</td>
+      <td>Notification Button</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:04 PM</td>
+    </tr>
+    <tr>
+      <td>Implement Read/Unread Notification Logic (Backend)</td>
+      <td>QUIC-76</td>
+      <td>10369</td>
+      <td>Subtask</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 9:38 AM</td>
+      <td>18/Jun/25 9:52 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Develop the backend logic to mark notifications as read when viewed and ensure they are stored appropriately. This includes updating the unread badge count.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000j3:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10330.0</td>
+      <td>QUIC-64</td>
+      <td>Notification Button</td>
+      <td>To Do</td>
+      <td>18/Jun/25 9:38 AM</td>
+    </tr>
+    <tr>
+      <td>Develop Unread Badge Functionality (Frontend)</td>
+      <td>QUIC-75</td>
+      <td>10370</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>18/Jun/25 9:38 AM</td>
+      <td>10/Jul/25 8:16 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>18/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Implement the frontend functionality to display an unread badge on the notification icon. The badge should accurately reflect the number of unread notifications.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000if:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10330.0</td>
+      <td>QUIC-64</td>
+      <td>Notification Button</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:16 PM</td>
+    </tr>
+    <tr>
+      <td>“Send a Package” CTA Button</td>
+      <td>QUIC-74</td>
+      <td>10350</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:43 PM</td>
+      <td>18/Jun/25 10:33 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>*User Story:*\nAs a user, I want to easily request a delivery from the dashboard when I register, so I can quickly book a rider.\n\n*Description:*\nA large primary CTA labeled "Send a Package" appears over the dashboard during onboarding. It triggers the delivery flow.\n\n*Acceptance Criteria:*\n\n* Button is visible after authentication\n* Button opens delivery request flow screen\n* Directs to pickup and delivery screen when tapped</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000i7:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10265.0</td>
+      <td>QUIC-47</td>
+      <td>Dashboard</td>
+      <td>To Do</td>
+      <td>16/Jun/25 4:43 PM</td>
+    </tr>
+    <tr>
+      <td>Bottom Tab Navigation (Home, Orders, Account)</td>
+      <td>QUIC-73</td>
+      <td>10348</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:37 PM</td>
+      <td>16/Jun/25 4:38 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>*User Story:*\nAs a user, I want to easily switch between main areas of the app, so I can view deliveries or manage my account.\n\n*Description:*\nA bottom nav bar has 3 icons: Home, Orders, and Account. The active screen is highlighted.\n\n*Acceptance Criteria:*\n\n* Bottom nav bar is always visible on main app screens\n* Home navigates to dashboard\n* Orders opens list of past/current deliveries\n* Account opens profile, wallet, support links\n* Active tab is visually highlighted\n</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000hz:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10265.0</td>
+      <td>QUIC-47</td>
+      <td>Dashboard</td>
+      <td>To Do</td>
+      <td>16/Jun/25 4:37 PM</td>
+    </tr>
+    <tr>
+      <td>Recent Orders / Order History</td>
+      <td>QUIC-72</td>
+      <td>10346</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:34 PM</td>
+      <td>16/Jun/25 4:36 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>*User Story:*\nAs a user, I want to see my most recent deliveries so I can track progress and repeat orders easily.\n\n*Description:*\nA card-based list shows the 3–5 most recent orders with date, status, and route. Users can tap to see full details.\n\n*Acceptance Criteria:*\n\n* Displays at least the last 3 orders\n* Each card shows: Date, Pickup ➡ Delivery, Status (e.g., Delivered)\n* Tapping card opens detailed order page\n* List updates dynamically after each completed delivery\n* Shows empty state if no deliveries exist yet</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000hr:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10265.0</td>
+      <td>QUIC-47</td>
+      <td>Dashboard</td>
+      <td>To Do</td>
+      <td>16/Jun/25 4:34 PM</td>
+    </tr>
+    <tr>
+      <td>Promotions Image Section</td>
+      <td>QUIC-71</td>
+      <td>10344</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:33 PM</td>
+      <td>16/Jun/25 4:33 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>*User Story:*\nAs a user, I want to see current promotions so I can take advantage of discounts and offers.\n\n*Description:*\nA scrollable banner area shows active promotions fetched from the backend. Clicking a banner reveals more details.\n\n*Acceptance Criteria:*\n\n* At least one promotion card is displayed (or “No active promotions” message)\n* Cards are swipeable if multiple exist\n* Each card links to a promo details screen\n* Image/banner is optimized for different screen sizes</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000hj:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10265.0</td>
+      <td>QUIC-47</td>
+      <td>Dashboard</td>
+      <td>To Do</td>
+      <td>16/Jun/25 4:33 PM</td>
+    </tr>
+    <tr>
+      <td>Pickup &amp; Delivery Location Fields</td>
+      <td>QUIC-70</td>
+      <td>10342</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:31 PM</td>
+      <td>18/Jun/25 10:02 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>*User Story:*\nAs a user, I want to enter my pickup and delivery addresses so I can schedule a package delivery.\n\n*Description:*\nUsers enter pickup and delivery locations through input fields powered by autocomplete. Locations must be validated before continuing.\n\n*Acceptance Criteria:*\n\n* Two input fields are visible for pickup and delivery\n* Pickup is required before the delivery input is active\n* Location suggestions appear using the Google Places API\n* Error is shown if location is outside the service area</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000hb:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10265.0</td>
+      <td>QUIC-47</td>
+      <td>Dashboard</td>
+      <td>To Do</td>
+      <td>16/Jun/25 4:31 PM</td>
+    </tr>
+    <tr>
+      <td>Add Persistent Promotions Banner to Footer</td>
+      <td>QUIC-69</td>
+      <td>10338</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:07 PM</td>
+      <td>07/Jul/25 12:03 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>18/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>h2. Summary\n\nImplement a persistent promotions banner in the footer of the side menu. This banner will display ongoing promotions.\n\nh2. Context\n\nThe goal is to enhance user engagement by showcasing current promotions directly in the footer of the side menu.\n\nh2. Acceptance criteria\n\n* A promotions banner must be added to the footer of the side menu.\n* The banner should display ongoing promotions.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000h3:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10328.0</td>
+      <td>QUIC-63</td>
+      <td>Access Side Menu (Breadcrumb &amp; Navigation)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:03 PM</td>
+    </tr>
+    <tr>
+      <td>Integrate Profile Information in Side Menu</td>
+      <td>QUIC-67</td>
+      <td>10339</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:07 PM</td>
+      <td>07/Jul/25 12:03 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>18/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Ensure the side menu displays the user's profile information, including username and profile picture, for context.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000gv:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10328.0</td>
+      <td>QUIC-63</td>
+      <td>Access Side Menu (Breadcrumb &amp; Navigation)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:03 PM</td>
+    </tr>
+    <tr>
+      <td>Implement Breadcrumb Navigation</td>
+      <td>QUIC-68</td>
+      <td>10337</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:07 PM</td>
+      <td>07/Jul/25 12:03 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>18/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop breadcrumb navigation that shows the user's current location within the app and includes the username and profile picture icon for context.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000gn:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10328.0</td>
+      <td>QUIC-63</td>
+      <td>Access Side Menu (Breadcrumb &amp; Navigation)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 12:03 PM</td>
+    </tr>
+    <tr>
+      <td>Implement Hamburger Menu Icon</td>
+      <td>QUIC-65</td>
+      <td>10336</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:07 PM</td>
+      <td>07/Jul/25 11:16 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Design and implement a visible hamburger menu icon on the main screen that users can tap to open the side menu drawer.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000gf:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10328.0</td>
+      <td>QUIC-63</td>
+      <td>Access Side Menu (Breadcrumb &amp; Navigation)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 11:16 AM</td>
+    </tr>
+    <tr>
+      <td>Develop Side Menu Drawer</td>
+      <td>QUIC-66</td>
+      <td>10340</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:07 PM</td>
+      <td>07/Jul/25 11:16 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>h2. Summary\n\nDevelop a side menu drawer that opens with a tap on the hamburger menu or a swipe from the side.\n\nh2. Context\n\nThe side menu drawer will enhance user navigation within the application.\n\nh2. Acceptance criteria\n\n* The drawer opens when the hamburger menu is tapped.\n* The drawer opens when the user swipes from the side.\n* The drawer contains the following sections:\n** Profile\n** Payment\n** Promotions\n** My Orders\n** Help\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000g7:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10328.0</td>
+      <td>QUIC-63</td>
+      <td>Access Side Menu (Breadcrumb &amp; Navigation)</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 11:16 AM</td>
+    </tr>
+    <tr>
+      <td>Notification Button</td>
+      <td>QUIC-64</td>
+      <td>10330</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:04 PM</td>
+      <td>16/Jun/25 4:06 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>*User Story:*\nAs a user, I want to see app notifications so I can stay updated about deliveries, promos, and status alerts.\n\n*Description:*\nA notification bell icon sits at the top-right corner of the dashboard. It shows a badge for unread messages and opens a list of recent alerts.\n\n*Acceptance Criteria:*\n\n* Notification icon appears on dashboard header\n* Unread badge displays the correct count\n* Tapping opens a modal or screen with notifications (latest first)\n* Read notifications are marked and stored appropriately</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000fz:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10265.0</td>
+      <td>QUIC-47</td>
+      <td>Dashboard</td>
+      <td>To Do</td>
+      <td>16/Jun/25 4:04 PM</td>
+    </tr>
+    <tr>
+      <td>Access Side Menu (Breadcrumb &amp; Navigation)</td>
+      <td>QUIC-63</td>
+      <td>10328</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 4:00 PM</td>
+      <td>16/Jun/25 4:04 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>*User Story:*\nAs a user, I want to access the side menu easily from any screen, so I can manage my profile, payments, and help options.\n\n*Description:*\nThe side menu opens from a hamburger icon or swipe, and shows key app sections. It includes profile info, wallet, orders, help, and promotions.\n\n*Acceptance Criteria:*\n\n* Hamburger menu is visible on the main screen\n* Tapping it opens the side menu drawer\n* Drawer contains Profile, Payment, Promotions, My Orders, Help\n* Footer includes a persistent promotions banner\n* Breadcrumb shows username and profile picture icon for context</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000fr:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10265.0</td>
+      <td>QUIC-47</td>
+      <td>Dashboard</td>
+      <td>To Do</td>
+      <td>16/Jun/25 4:00 PM</td>
+    </tr>
+    <tr>
+      <td>Design user interface for login screen</td>
+      <td>QUIC-62</td>
+      <td>10326</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:32 PM</td>
+      <td>18/Jun/25 11:09 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>16/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Design and implement the user interface for the login screen, including fields for phone number input and OTP entry, ensuring a user-friendly experience.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000fb:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10138.0</td>
+      <td>QUIC-9</td>
+      <td>Login to access account</td>
+      <td>In Progress</td>
+      <td>18/Jun/25 11:09 AM</td>
+    </tr>
+    <tr>
+      <td>Develop OTP generation and sending mechanism</td>
+      <td>QUIC-61</td>
+      <td>10324</td>
+      <td>Subtask</td>
+      <td>QA</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>Done</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:32 PM</td>
+      <td>17/Jun/25 10:25 PM</td>
+      <td>NaN</td>
+      <td>17/Jun/25 10:25 PM</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Create a system to generate a One-Time Password (OTP) and send it to the user's registered phone number after they attempt to log in.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000f3:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10138.0</td>
+      <td>QUIC-9</td>
+      <td>Login to access account</td>
+      <td>Done</td>
+      <td>17/Jun/25 10:25 PM</td>
+    </tr>
+    <tr>
+      <td>Implement phone number login functionality</td>
+      <td>QUIC-60</td>
+      <td>10323</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:32 PM</td>
+      <td>10/Jul/25 8:10 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>16/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop the functionality to allow users to log in using their registered phone number. Ensure that the phone number is validated against the registered number in the system.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000fj:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10138.0</td>
+      <td>QUIC-9</td>
+      <td>Login to access account</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:10 PM</td>
+    </tr>
+    <tr>
+      <td>Create session management for logged-in users</td>
+      <td>QUIC-59</td>
+      <td>10320</td>
+      <td>Subtask</td>
+      <td>QA</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>Done</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:32 PM</td>
+      <td>17/Jun/25 10:25 PM</td>
+      <td>NaN</td>
+      <td>17/Jun/25 10:25 PM</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Implement session management to keep users logged in until they choose to log out. Ensure that the session is secure and maintains user authentication.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000en:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10138.0</td>
+      <td>QUIC-9</td>
+      <td>Login to access account</td>
+      <td>Done</td>
+      <td>17/Jun/25 10:25 PM</td>
+    </tr>
+    <tr>
+      <td>Implement OTP verification process</td>
+      <td>QUIC-58</td>
+      <td>10319</td>
+      <td>Subtask</td>
+      <td>QA</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>Done</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:32 PM</td>
+      <td>17/Jun/25 10:26 PM</td>
+      <td>NaN</td>
+      <td>17/Jun/25 10:26 PM</td>
+      <td>18/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop the process to verify the OTP entered by the user. Ensure that the OTP matches the one sent to the user's phone and is within the valid time frame.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000ev:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10138.0</td>
+      <td>QUIC-9</td>
+      <td>Login to access account</td>
+      <td>Done</td>
+      <td>17/Jun/25 10:26 PM</td>
+    </tr>
+    <tr>
+      <td>Implement resend OTP functionality</td>
+      <td>QUIC-57</td>
+      <td>10315</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:15 PM</td>
+      <td>10/Jul/25 8:09 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop the feature that allows users to request a resend of the OTP PIN if they did not receive it initially.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000ef:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10137.0</td>
+      <td>QUIC-8</td>
+      <td>OTP verification</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:09 PM</td>
+    </tr>
+    <tr>
+      <td>Develop OTP verification logic</td>
+      <td>QUIC-56</td>
+      <td>10316</td>
+      <td>Subtask</td>
+      <td>QA</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>Done</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:15 PM</td>
+      <td>17/Jun/25 10:26 PM</td>
+      <td>NaN</td>
+      <td>17/Jun/25 10:26 PM</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Implement the backend logic to verify the OTP PIN entered by the user against the generated OTP to confirm the user's phone number.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000e7:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10137.0</td>
+      <td>QUIC-8</td>
+      <td>OTP verification</td>
+      <td>Done</td>
+      <td>17/Jun/25 10:26 PM</td>
+    </tr>
+    <tr>
+      <td>Create OTP input field and validation</td>
+      <td>QUIC-55</td>
+      <td>10312</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:15 PM</td>
+      <td>07/Jul/25 11:15 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Design and implement the OTP input field where users can enter the OTP PIN they received. Ensure that the input is validated correctly.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000dz:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10137.0</td>
+      <td>QUIC-8</td>
+      <td>OTP verification</td>
+      <td>In Progress</td>
+      <td>07/Jul/25 11:15 AM</td>
+    </tr>
+    <tr>
+      <td>Design continue button and verification flow</td>
+      <td>QUIC-54</td>
+      <td>10313</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:15 PM</td>
+      <td>18/Jun/25 11:08 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Create the continue button that users can click after entering the OTP PIN, and ensure the flow leads to successful verification or an error message if the OTP is incorrect.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000dr:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10137.0</td>
+      <td>QUIC-8</td>
+      <td>OTP verification</td>
+      <td>In Progress</td>
+      <td>18/Jun/25 11:08 AM</td>
+    </tr>
+    <tr>
+      <td>Implement OTP generation and sending</td>
+      <td>QUIC-53</td>
+      <td>10311</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:15 PM</td>
+      <td>10/Jul/25 8:09 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop the functionality to generate a unique OTP PIN and send it to the user's phone number after they input their phone number during sign-up.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000dj:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10137.0</td>
+      <td>QUIC-8</td>
+      <td>OTP verification</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:09 PM</td>
+    </tr>
+    <tr>
+      <td>Implement Backend Logic for Phone Number Registration</td>
+      <td>QUIC-52</td>
+      <td>10306</td>
+      <td>Subtask</td>
+      <td>QA</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>Done</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:08 PM</td>
+      <td>17/Jun/25 10:21 PM</td>
+      <td>NaN</td>
+      <td>17/Jun/25 10:21 PM</td>
+      <td>16/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Develop the backend functionality to handle phone number registration and linking to the Quickfleet account.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000cv:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10100.0</td>
+      <td>QUIC-1</td>
+      <td>Sign up with phone number</td>
+      <td>Done</td>
+      <td>17/Jun/25 10:21 PM</td>
+    </tr>
+    <tr>
+      <td>Test Phone Number Sign Up Process</td>
+      <td>QUIC-51</td>
+      <td>10304</td>
+      <td>Subtask</td>
+      <td>QA</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>Done</td>
+      <td>Oladipupo Akindunbi</td>
+      <td>635fc38f7d4645af4f0331ee</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:08 PM</td>
+      <td>19/Jun/25 11:37 AM</td>
+      <td>NaN</td>
+      <td>19/Jun/25 11:37 AM</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Conduct thorough testing to ensure the phone number sign-up process meets all acceptance criteria and functions correctly.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000db:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10100.0</td>
+      <td>QUIC-1</td>
+      <td>Sign up with phone number</td>
+      <td>Done</td>
+      <td>19/Jun/25 11:37 AM</td>
+    </tr>
+    <tr>
+      <td>Validate Phone Number Format</td>
+      <td>QUIC-49</td>
+      <td>10300</td>
+      <td>Subtask</td>
+      <td>QA</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>Done</td>
+      <td>Divine Idehen</td>
+      <td>712020:15e3613c-e48a-436e-be9f-95fcc39a42c4</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:08 PM</td>
+      <td>17/Jun/25 10:26 PM</td>
+      <td>NaN</td>
+      <td>17/Jun/25 10:26 PM</td>
+      <td>16/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>h2. Summary\n\nImplement validation logic for phone numbers. The phone number must be 11 digits long and include the Nigerian country code.\n\nh2. Context\n\nThis issue focuses on ensuring that phone numbers entered into the system meet specific formatting requirements. The goal is to improve data integrity by validating phone numbers.\n\nh2. Acceptance criteria\n\n* Phone number must be exactly 11 digits.\n* Phone number must include the Nigerian country code.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000cn:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10100.0</td>
+      <td>QUIC-1</td>
+      <td>Sign up with phone number</td>
+      <td>Done</td>
+      <td>17/Jun/25 10:26 PM</td>
+    </tr>
+    <tr>
+      <td>Design User Interface for Phone Number Sign Up</td>
+      <td>QUIC-50</td>
+      <td>10302</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:08 PM</td>
+      <td>18/Jun/25 11:06 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>16/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>Create a user-friendly interface for users to input their phone number during the sign-up process.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000d3:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10100.0</td>
+      <td>QUIC-1</td>
+      <td>Sign up with phone number</td>
+      <td>In Progress</td>
+      <td>18/Jun/25 11:06 AM</td>
+    </tr>
+    <tr>
+      <td>Integrate Phone Number Verification Service</td>
+      <td>QUIC-48</td>
+      <td>10301</td>
+      <td>Subtask</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>Etomu Gbenga Joshua</td>
+      <td>61fd566649fc43006952e766</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>16/Jun/25 3:08 PM</td>
+      <td>10/Jul/25 8:08 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>17/Jun/25 12:00 AM</td>
+      <td>0</td>
+      <td>h2. Summary\n\nWe need to integrate a phone number verification service. This service will confirm if a phone number is registered with a Nigerian provider and can receive messages.\n\nh2. Context\n\nThe purpose of this integration is to ensure that users' phone numbers are valid and capable of receiving messages. This is crucial for communication and verification processes.\n\nh2. Acceptance criteria\n\n* The service must verify if the phone number is registered with a Nigerian phone service provider.\n* The service must confirm that the phone number can receive messages.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000cf:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10100.0</td>
+      <td>QUIC-1</td>
+      <td>Sign up with phone number</td>
+      <td>In Progress</td>
+      <td>10/Jul/25 8:08 PM</td>
+    </tr>
+    <tr>
+      <td>Dashboard</td>
+      <td>QUIC-47</td>
+      <td>10265</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>15/Jun/25 7:57 PM</td>
+      <td>15/Jun/25 7:57 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0002j:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>15/Jun/25 7:57 PM</td>
+    </tr>
+    <tr>
+      <td>Select delivery date and time</td>
+      <td>QUIC-46</td>
+      <td>10264</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>15/Jun/25 7:56 PM</td>
+      <td>15/Jun/25 7:56 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000c7:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>15/Jun/25 7:57 PM</td>
+    </tr>
+    <tr>
+      <td>Schedule delivery button</td>
+      <td>QUIC-45</td>
+      <td>10232</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>14/Jun/25 11:52 AM</td>
+      <td>14/Jun/25 11:52 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000bz:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10133.0</td>
+      <td>QUIC-4</td>
+      <td>Schedule Delivery Request</td>
+      <td>To Do</td>
+      <td>14/Jun/25 11:52 AM</td>
+    </tr>
+    <tr>
+      <td>In-app Chat</td>
+      <td>QUIC-44</td>
+      <td>10226</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 4:00 PM</td>
+      <td>13/Jun/25 4:00 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000br:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>13/Jun/25 4:00 PM</td>
+    </tr>
+    <tr>
+      <td>Customer Education</td>
+      <td>QUIC-43</td>
+      <td>10225</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 4:00 PM</td>
+      <td>13/Jun/25 4:00 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000bj:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>13/Jun/25 4:00 PM</td>
+    </tr>
+    <tr>
+      <td>Wait-time Estimation</td>
+      <td>QUIC-42</td>
+      <td>10224</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 3:59 PM</td>
+      <td>13/Jun/25 3:59 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000bb:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>13/Jun/25 3:59 PM</td>
+    </tr>
+    <tr>
+      <td>Rating &amp; Reviews</td>
+      <td>QUIC-41</td>
+      <td>10223</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 3:59 PM</td>
+      <td>13/Jun/25 3:59 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000b3:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>13/Jun/25 3:59 PM</td>
+    </tr>
+    <tr>
+      <td>Instant Payment Processing</td>
+      <td>QUIC-40</td>
+      <td>10222</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 3:59 PM</td>
+      <td>13/Jun/25 3:59 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000av:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>13/Jun/25 3:59 PM</td>
+    </tr>
+    <tr>
+      <td>Real-Time GPS Tracking</td>
+      <td>QUIC-39</td>
+      <td>10221</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 3:58 PM</td>
+      <td>13/Jun/25 3:58 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000an:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>13/Jun/25 3:58 PM</td>
+    </tr>
+    <tr>
+      <td>Order Matching</td>
+      <td>QUIC-38</td>
+      <td>10220</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 3:58 PM</td>
+      <td>13/Jun/25 3:58 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000af:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>13/Jun/25 3:58 PM</td>
+    </tr>
+    <tr>
+      <td>Confirm &amp; submit ride details</td>
+      <td>QUIC-37</td>
+      <td>10219</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:47 AM</td>
+      <td>13/Jun/25 9:47 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000a7:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:47 AM</td>
+    </tr>
+    <tr>
+      <td>Summarize ride details</td>
+      <td>QUIC-36</td>
+      <td>10217</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:46 AM</td>
+      <td>13/Jun/25 9:46 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0009z:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:46 AM</td>
+    </tr>
+    <tr>
+      <td>View available riders</td>
+      <td>QUIC-35</td>
+      <td>10215</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:45 AM</td>
+      <td>13/Jun/25 9:45 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0009r:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:45 AM</td>
+    </tr>
+    <tr>
+      <td>Display Available truck type</td>
+      <td>QUIC-34</td>
+      <td>10213</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:45 AM</td>
+      <td>13/Jun/25 8:50 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>As a user, I want to view the available truck types so that I can determine which one to choose from\n\n*Acceptance Criteria*\n\n* User can view available truck types\n* User can select from the list of available trucks\n*</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0009j:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:45 AM</td>
+    </tr>
+    <tr>
+      <td>Estimate delivery fare</td>
+      <td>QUIC-33</td>
+      <td>10211</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:44 AM</td>
+      <td>13/Jun/25 7:12 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0009b:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:44 AM</td>
+    </tr>
+    <tr>
+      <td>Share ride details</td>
+      <td>QUIC-32</td>
+      <td>10209</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:44 AM</td>
+      <td>13/Jun/25 9:44 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i00093:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:44 AM</td>
+    </tr>
+    <tr>
+      <td>Share pick-up code with rider</td>
+      <td>QUIC-31</td>
+      <td>10207</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:44 AM</td>
+      <td>13/Jun/25 9:44 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0008v:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:44 AM</td>
+    </tr>
+    <tr>
+      <td>Pick Up Code</td>
+      <td>QUIC-30</td>
+      <td>10205</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:40 AM</td>
+      <td>13/Jun/25 9:40 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0008n:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:40 AM</td>
+    </tr>
+    <tr>
+      <td>Chat with rider</td>
+      <td>QUIC-29</td>
+      <td>10204</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:39 AM</td>
+      <td>13/Jun/25 9:39 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0008f:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:39 AM</td>
+    </tr>
+    <tr>
+      <td>Estimate rider arrival</td>
+      <td>QUIC-28</td>
+      <td>10202</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:38 AM</td>
+      <td>13/Jun/25 9:38 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i00087:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:38 AM</td>
+    </tr>
+    <tr>
+      <td>View rider details</td>
+      <td>QUIC-27</td>
+      <td>10200</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:37 AM</td>
+      <td>13/Jun/25 9:37 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0007z:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:37 AM</td>
+    </tr>
+    <tr>
+      <td>Match with rider</td>
+      <td>QUIC-26</td>
+      <td>10198</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:32 AM</td>
+      <td>13/Jun/25 9:32 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0007r:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:32 AM</td>
+    </tr>
+    <tr>
+      <td>Search for Rider</td>
+      <td>QUIC-25</td>
+      <td>10196</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:31 AM</td>
+      <td>13/Jun/25 9:31 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0007j:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:31 AM</td>
+    </tr>
+    <tr>
+      <td>Payment type</td>
+      <td>QUIC-24</td>
+      <td>10194</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:31 AM</td>
+      <td>13/Jun/25 9:31 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0007b:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:31 AM</td>
+    </tr>
+    <tr>
+      <td>Payment method</td>
+      <td>QUIC-23</td>
+      <td>10192</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:30 AM</td>
+      <td>13/Jun/25 9:30 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i00073:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:30 AM</td>
+    </tr>
+    <tr>
+      <td>Choose delivery type</td>
+      <td>QUIC-22</td>
+      <td>10190</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:30 AM</td>
+      <td>13/Jun/25 9:30 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0006v:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:30 AM</td>
+    </tr>
+    <tr>
+      <td>Select vehicle type</td>
+      <td>QUIC-21</td>
+      <td>10188</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:29 AM</td>
+      <td>13/Jun/25 9:29 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0006n:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:29 AM</td>
+    </tr>
+    <tr>
+      <td>Provide receiver details</td>
+      <td>QUIC-20</td>
+      <td>10186</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:25 AM</td>
+      <td>13/Jun/25 6:25 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0006f:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:25 AM</td>
+    </tr>
+    <tr>
+      <td>Provide sender details</td>
+      <td>QUIC-19</td>
+      <td>10184</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:25 AM</td>
+      <td>13/Jun/25 9:25 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i00067:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:25 AM</td>
+    </tr>
+    <tr>
+      <td>Mobile calling feature</td>
+      <td>QUIC-18</td>
+      <td>10182</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:24 AM</td>
+      <td>11/Aug/25 10:57 AM</td>
+      <td>01/Jul/25 12:16 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nThe mobile calling feature allows users to call the driver to verify their location.\n\nh2. Context\n\nThis feature is designed to enhance communication between users and drivers. It aims to improve the accuracy of location verification.\n\nh2. Acceptance criteria\n\n* Users must be able to initiate a call to the driver.\n* The call should connect successfully to verify the driver's location.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000sz:r</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:57 AM</td>
+    </tr>
+    <tr>
+      <td>Rider details</td>
+      <td>QUIC-17</td>
+      <td>10180</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:23 AM</td>
+      <td>11/Aug/25 10:56 AM</td>
+      <td>01/Jul/25 11:54 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nThe issue involves providing rider details to users. This is to help them verify the driver who is picking up their package.\n\nh2. Context\n\nUsers need to confirm the identity of the driver for their package pickup. Providing rider details will enhance security and trust.\n\nh2. Acceptance criteria\n\n* Rider details must be provided to the user.\n* Users should be able to verify the driver picking up their package.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000sz:i</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:56 AM</td>
+    </tr>
+    <tr>
+      <td>Pricing endpoint</td>
+      <td>QUIC-16</td>
+      <td>10178</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:22 AM</td>
+      <td>11/Aug/25 10:56 AM</td>
+      <td>01/Jul/25 11:46 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nThe issue involves creating a pricing endpoint. This endpoint will display the delivery price to users, helping them understand their payment obligations.\n\nh2. Context\n\nCurrently, users do not have access to information regarding delivery prices. Implementing this endpoint will enhance user experience by providing necessary payment details.\n\nh2. Acceptance criteria\n\n* The pricing endpoint must return the delivery price.\n* Users should be able to access the delivery price easily.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000sz:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:56 AM</td>
+    </tr>
+    <tr>
+      <td>Vehicle type endpoint</td>
+      <td>QUIC-15</td>
+      <td>10176</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:21 AM</td>
+      <td>11/Aug/25 10:56 AM</td>
+      <td>01/Jul/25 11:37 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nCreate an interface for customers to view a list of vehicles. This will help them choose a vehicle based on their package.\n\nh2. Context\n\nThe interface is needed to assist customers in selecting the appropriate vehicle.\n\nh2. Acceptance criteria\n\n* An interface must be created.\n* The interface should display a list of vehicles.\n* Customers should be able to select their vehicle of choice based on their package.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000sy:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:56 AM</td>
+    </tr>
+    <tr>
+      <td>Package weight category</td>
+      <td>QUIC-14</td>
+      <td>10174</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:21 AM</td>
+      <td>11/Aug/25 10:57 AM</td>
+      <td>01/Jul/25 11:31 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nCreate a list of weight categories for packages. This will help riders determine the size of customer packages and prepare the appropriate vehicle type for pickup.\n\nh2. Context\n\nThe issue aims to improve the efficiency of package pickups by providing clear weight categories. This will assist riders in selecting the right vehicle for different package sizes.\n\nh2. Acceptance criteria\n\n* A comprehensive list of weight categories for packages must be created.\n* The list should be easily accessible to riders.\n* The weight categories should help in determining the appropriate vehicle type for pickup.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000t0:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:57 AM</td>
+    </tr>
+    <tr>
+      <td>Map view functionality</td>
+      <td>QUIC-13</td>
+      <td>10172</td>
+      <td>Task</td>
+      <td>Done</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:20 AM</td>
+      <td>11/Aug/25 10:56 AM</td>
+      <td>01/Jul/25 11:21 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nThe issue involves implementing a map view functionality. This feature will allow users to see delivery and pickup locations on a map.\n\nh2. Context\n\nThe background of this issue is to enhance user experience by providing a visual representation of delivery and pickup locations.\n\nh2. Acceptance criteria\n\n* Users can view delivery locations on the map.\n* Users can view pickup locations on the map.\n\nh2. Other information\n\nN/A</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i000sx:</td>
+      <td>QUIC Sprint 1</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>In Progress</td>
+      <td>11/Aug/25 10:56 AM</td>
+    </tr>
+    <tr>
+      <td>Select Pickup location</td>
+      <td>QUIC-12</td>
+      <td>10170</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:20 AM</td>
+      <td>13/Jun/25 9:20 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0004n:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:20 AM</td>
+    </tr>
+    <tr>
+      <td>Type Pickup location</td>
+      <td>QUIC-11</td>
+      <td>10168</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:19 AM</td>
+      <td>13/Jun/25 9:19 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0004f:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:19 AM</td>
+    </tr>
+    <tr>
+      <td>Create instant delivery request fields</td>
+      <td>QUIC-10</td>
+      <td>10166</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>13/Jun/25 9:18 AM</td>
+      <td>19/Jun/25 9:46 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>h2. Summary\n\nCreate fields for accessing the instant delivery interface. This includes the pick-up and delivery fields.\n\nh2. Context\n\nThe issue involves setting up necessary fields for the instant delivery feature.\n\nh2. Acceptance criteria\n\n* Create pick-up fields.\n* Create delivery fields.</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i00047:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10132.0</td>
+      <td>QUIC-3</td>
+      <td>Instant Delivery Request</td>
+      <td>To Do</td>
+      <td>13/Jun/25 9:18 AM</td>
+    </tr>
+    <tr>
+      <td>Login to access account</td>
+      <td>QUIC-9</td>
+      <td>10138</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>12/Jun/25 9:03 AM</td>
+      <td>12/Jun/25 9:07 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>As a user, I want to log securely log in to my quickfleet account so that I can continue making delivery requests.\n\n*Acceptance Criteria*\n\n* User can securely log in to the account using the registered phone number\n* User received an OTP code after providing phone number\n* User phone number must match registered phone number\n* User can access account after providing OTP PIN\n* User remains logged in to their account unless they log out</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0003z:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>12/Jun/25 9:03 AM</td>
+    </tr>
+    <tr>
+      <td>OTP verification</td>
+      <td>QUIC-8</td>
+      <td>10137</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>12/Jun/25 8:54 AM</td>
+      <td>12/Jun/25 9:02 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>As a user, I want to receive and input an OTP PIN during sign up so that I can verify my phone number.\n\n*Acceptance Criteria*\n\n* User receives OTP PIN after inputting their phone number\n* OTP PIN is sent directly to the user phone number\n* User is prompted to input OTP PIN in the input field\n* User can input OTP PIN during sign-up after receiving code\n* User can click continue button after providing code for verification\n* User is verified after providing OTP PIN\n* User can request resend if OTP PIN is not sent</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0003r:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>12/Jun/25 8:54 AM</td>
+    </tr>
+    <tr>
+      <td>Enables the user to make payment for all delivery requests</td>
+      <td>QUIC-7</td>
+      <td>10136</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>12/Jun/25 8:11 AM</td>
+      <td>12/Jun/25 8:11 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0003j:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>12/Jun/25 8:11 AM</td>
+    </tr>
+    <tr>
+      <td>Customer Account Profile</td>
+      <td>QUIC-6</td>
+      <td>10135</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>12/Jun/25 8:10 AM</td>
+      <td>01/Jul/25 11:00 AM</td>
+      <td>01/Jul/25 10:59 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0003b:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>12/Jun/25 8:10 AM</td>
+    </tr>
+    <tr>
+      <td>Allows user to access delivery request feature and order history via the homepage</td>
+      <td>QUIC-5</td>
+      <td>10134</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>12/Jun/25 8:09 AM</td>
+      <td>12/Jun/25 8:09 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i00033:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>12/Jun/25 8:09 AM</td>
+    </tr>
+    <tr>
+      <td>Schedule Delivery Request</td>
+      <td>QUIC-4</td>
+      <td>10133</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>12/Jun/25 8:06 AM</td>
+      <td>12/Jun/25 9:33 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Provides the user with the ability to schedule delivery through the customer app.\n\nWe want the user to be able to make an instant delivery request via the customer app. \n\nThis request allows user to request package pickup and delivery within the required time. \n\n*Product Requirement*\n\n* User can initiate instant delivery request.\n* User can type and select pick-up location\n* User can select delivery location\n* User can select delivery location via map \n* User can select from a list of automatically suggested pickup locations\n* User can select from a list of automatically suggested delivery locations\n* User can specify package weight details (Small, Medium, Large)\n* User can describe package details from a list of categories\n* User can describe the package in a description field\n* User provides sender details (Name &amp; Phone No)\n* User provides receiver details (Name &amp; Phone No)\n* User can select vehicle type (Bike, Car, Van, Truck)\n* User can choose delivery type\n* User can select payment method and type\n* User can search for a rider\n* User is matched with a rider after searching\n* User can see rider details\n* User can see estimated rider arrival details\n* User can chat with the rider after being matched\n* User can share pickup code with rider\n* User can share ride details\n* System should calculate the estimated delivery fare\n* System shows available driver/truck types\n* User confirms and submits the request\n* User can cancel delivery request\n\n\n\n*Design Requirement*\n\n*Engineering Requirement*</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>green</td>
+      <td>0|i0002v:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>12/Jun/25 8:06 AM</td>
+    </tr>
+    <tr>
+      <td>Instant Delivery Request</td>
+      <td>QUIC-3</td>
+      <td>10132</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>12/Jun/25 8:01 AM</td>
+      <td>24/Jun/25 9:10 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Provides the user with the ability to request instant package pickup through the customer app.\n\nWe want the user to be able to make an instant delivery request via the customer app. \n\nThis request allows user to request package pickup and delivery within the required time. \n\n*Product Requirement*\n\n* User can initiate instant delivery request.\n* User can type and select pick-up location\n* User can select delivery location\n* User can select delivery location via map \n* User can select from a list of automatically suggested pickup locations\n* User can select from a list of automatically suggested delivery locations\n* User can specify package weight details (Small, Medium, Large)\n* User can describe package details from a list of categories\n* User can describe the package in a description field\n* User provides sender details (Name &amp; Phone No)\n* User provides receiver details (Name &amp; Phone No)\n* User can select vehicle type (Bike, Car, Van, Truck)\n* User can choose delivery type\n* User can select payment method and type\n* User can search for a rider\n* User is matched with a rider after searching\n* User can see rider details\n* User can see estimated rider arrival details\n* User can chat with the rider after being matched\n* User can share pickup code with rider\n* User can share ride details\n* System should calculate the estimated delivery fare\n* System shows available driver/truck types\n* User confirms and submits the request\n* User can cancel delivery request\n\n\n\n*Design Requirement*\n\n*Engineering Requirement*</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i0002n:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>648c4d1c-d8e0-49f8-84d6-25bf3547db4a</td>
+      <td>Dev Team</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>12/Jun/25 8:01 AM</td>
+    </tr>
+    <tr>
+      <td>User Authentication &amp; Login</td>
+      <td>QUIC-2</td>
+      <td>10101</td>
+      <td>Epic</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>11/Jun/25 10:05 AM</td>
+      <td>12/Jun/25 8:46 AM</td>
+      <td>01/Jul/25 12:19 PM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>Allows users to register their details before sending packages and requesting deliveries on the app.</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>purple</td>
+      <td>0|i0002f:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>648c4d1c-d8e0-49f8-84d6-25bf3547db4a</td>
+      <td>Dev Team</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>11/Jun/25 10:05 AM</td>
+    </tr>
+    <tr>
+      <td>Sign up with phone number</td>
+      <td>QUIC-1</td>
+      <td>10100</td>
+      <td>Task</td>
+      <td>To Do</td>
+      <td>QUIC</td>
+      <td>QuickFleet</td>
+      <td>software</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>Medium</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>Odenbridge Technologies</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>11/Jun/25 9:50 AM</td>
+      <td>12/Jun/25 8:54 AM</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>_As a user, I want to sign up with my phone number so that I can link my number to my Quickfleet account._\n\n*Acceptance Criteria:*\n\n* User provides a valid phone number to sign up\n* User phone number should be registered with a Nigerian phone service provider.\n* User phone number can receive messages\n* User phone number must be 11 digits\n* Nigerian country code is provided along side phone number</td>
+      <td>NaN</td>
+      <td>Odenbridge Technologies</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>712020:08cab4df-fe21-466a-9645-f20eaeb11349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>{}</td>
+      <td>NaN</td>
+      <td>0|i00027:</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>To Do</td>
+      <td>11/Jun/25 9:50 AM</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
